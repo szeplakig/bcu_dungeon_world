@@ -1,4 +1,27 @@
 site_name: BCU Dungeon World
 site_url: https://hetyey-b.github.io/bcu_dungeon_world/
 theme:
-  name: dracula
+  name: material
+  palette:
+    scheme:
+      slate
+nav:
+  - 'Home': 'index.md'
+  - 'Moves': 'Moves.md'
+  - 'Character creation': 'Character creation.md'
+  - 'Character species': 'Character species.md'
+  - 'Bonds and Alignment': 'Bonds and Alignment.md'
+  - 'HP and Damage': 'HP and Damage.md'
+  - 'Character playbooks':
+    - 'The Bard': 'Character playbooks/The Bard.md'
+    - 'The Battlemaster': 'Character playbooks/The Battlemaster.md'
+    - 'The Chaneller': 'Character playbooks/The Chaneller.md'
+    - 'The Cleric': 'Character playbooks/The Cleric.md'
+    - 'The Druid': 'Character playbooks/The Druid.md'
+    - 'The Fighter': 'Character playbooks/The Fighter.md'
+    - 'The Necromancer': 'Character playbooks/The Necromancer.md'
+    - 'The Paladin': 'Character playbooks/The Paladin.md'
+    - 'The Ranger': 'Character playbooks/The Ranger.md'
+    - 'The Thief': 'Character playbooks/The Thief.md'
+    - 'The Wizard': 'Character playbooks/The Wizard.md'
+  - 'Equipment':  'Equipment.md'

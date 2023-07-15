@@ -1,1 +1,1 @@
-# BCU Dungeon World Wiki
+# BCU Dungeon World
