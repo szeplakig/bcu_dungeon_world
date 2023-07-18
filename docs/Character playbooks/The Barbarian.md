@@ -75,6 +75,14 @@ Fill in the name of one of your companions in at least one:
 \_\_\_\_\_\_ shares my hunger for glory; the earth will
 tremble at our passing!
 
+## Death Move: A Good Day to Die
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+There is that tranquil moment, before death, where everything slows to a crawl. Most waste that moment, but not you. No, you seize that moment and do not let go. When you die, you enter a deathless fury. For about a minute (to you), nothing else can move or take any actions at all, and you can do anything you want unopposed. 
+
+When your time is up, only a moment has passed for everyone else, and the results of your actions all take effect at once. After one last line or a bellowing laugh or both, you die.
+
 ## Advanced moves
 
 *When you gain a level from 2–5, choose from these moves.*

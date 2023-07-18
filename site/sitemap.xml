@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Barbarian/</loc>
+         <lastmod>2023-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Bard/</loc>
          <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
@@ -87,6 +92,16 @@
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Shaman/</loc>
+         <lastmod>2023-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Skirmisher/</loc>
+         <lastmod>2023-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Templar/</loc>
          <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
