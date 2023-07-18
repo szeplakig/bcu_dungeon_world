@@ -90,10 +90,29 @@ Choose one:
 * Antitoxin (0 weight)
 * Ritual Drum (1 weight)
 
+## Bonds
+
+Fill in the name of one of your companions in at least one:
+
+It’s clear to me \_\_\_\_\_\_ has a troubled spirit.
+
+\_\_\_\_\_\_ and my spirit are bound together.
+
+I have heard the spirits speak of \_\_\_\_\_\_'s power.
+
+\_\_\_\_\_\_ must learn to respect the spirit realm.
+
+## Death Move: The Last Totem
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+You knew this time would come, that your body could not last forever. As for your spirit, it has only one more task. When you die, all of your existing totems shatter and release the spirits held within. A chrysalis of spiritual energy begins forming near your body. Random objects from the environment and pieces of broken totem fly into the cocoon. Finally, the spiritual maelstrom dissipates. There on the ground is your totemic legacy: an artifact of great power.
+
+Work with the GM to create a powerful magic item. It could be an amulet, or spear, or any type of object. Its magical effects should be related to what you desired or stood for in life. Let this be your heirloom, Shaman, your spirit’s endowment to future generations.
+
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these
-moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Chain Lightning
 
@@ -135,7 +154,7 @@ Your Spirit Pact allows for 1 additional Worldly Spirit Totem, but it must be gi
 
 When you spend the night alone in nature and consume a vision enhancing substance (such as ghostroot or dreamcap), the spirits will offer you guidance. Tell them something that troubles you. They will do their best to bestow wisdom. Take +1 Forward when acting on the problem. 
 
-When you gain a level from 6-10, choose from these or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 
 ### Totem of the First Spirits
 

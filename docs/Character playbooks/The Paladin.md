@@ -87,9 +87,17 @@ I respect the beliefs of \_\_\_\_\_\_ but hope they will someday see the true wa
 \_\_\_\_\_\_ is a brave soul, I have much to learn from
 them.
 
+## Death Move: Eternal Guardian
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+You have proven yourself such a valiant champion of your beliefs that not even death will keep you away from furthering your cause. When you die, your spirit lives on with those who remember you. Each other player holds 1-Reckoning. When another player is in dire need, they can spend 1-Reckoning to summon your spirit to aid them. 
+
+This spirit comes with 6 hold for the Defend move, deals 10 damage with any attack it makes, grants +1 to any move it helps out on, and has enough power to restore 3d6 HP or remove 1 disease or debility from any one person. Your spirit will stick around long enough to see the trouble through before fading away, and only those who knew you in life will be able to see this spirit.
+
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+*When you gain a level from 2–5, choose from these moves.*
 
 ### Divine Favor
 
@@ -131,8 +139,7 @@ Take +1 to order hirelings.
 
 When you heal an ally, you heal +1d8 damage.
 
-When you gain a level from 6–10, choose from these moves or
-the level 2–5 moves.
+*When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 
 ### Evidence of Faith
 

@@ -21,7 +21,8 @@ When you bed down in dangerous lands, decide on a watch order. Then, the GM choo
 * One party member of the GM’s choice suffers a restless night
 * One or more followers causes trouble
 * A Danger approaches—it’s not immediately hostile, but whoever’s on watch had better Stay Sharp anyway
-  When you wake from at least a few hours of uninterrupted sleep, and you ate and drank the night before, heal damage equal to half of your max HP.
+
+When you wake from at least a few hours of uninterrupted sleep, and you ate and drank the night before, heal damage equal to half of your max HP.
 
 ## Stay Sharp
 

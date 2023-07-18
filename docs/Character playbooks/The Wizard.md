@@ -86,10 +86,17 @@ Fill in the name of one of your companions in at least one:
 
 \_\_\_\_\_\_ is woefully misinformed about the world; I will teach them all that I can.
 
+## Death Move: Dying Wish
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+You’ve known this spell for ages - the ultimate spell, which can rewrite reality however you see fit, at the tiny cost of your own life. It’s been burning in the back of your mind, ever since you found it wasting away in that moldy old tome, forgotten by time. But now there is no more time - not for you. It’s now or never. 
+
+When you die, you cast your final, ultimate spell: Wish. Shout out your wish, but make it quick - you are dying, you know. The last thing you see before your body disintegrates into dust is reality twisting and thrashing to make your wish come true.
+
 ## Advanced moves
 
-When you gain a level from 2-5, choose from these moves. You
-also add a new spell to your spellbook at each level.
+*When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level.*
 
 ### Prodigy
 
@@ -134,8 +141,7 @@ When you attempt to counter an arcane spell that will otherwise affect you, stak
 
 When you see the effects of an arcane spell, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.
 
-When you gain a level from 6-10, choose from these moves or
-the level 2-5 moves.
+*When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 
 ### Master
 

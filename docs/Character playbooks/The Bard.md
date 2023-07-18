@@ -104,9 +104,17 @@ I am writing a ballad about the adventures of \_\_\_\_\_\_.
 
 \_\_\_\_\_\_ does not trust me, and for good reason.
 
+## Death Move: Encore
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+It can’t end here, not like this! It was just getting to the good part! When you die, you make sure you get in the last word: you’ve got just enough left in you for one final performance. When the time is right, you get back up and steal the spotlight. Deliver a monologue, play a song, anything that draws a lot of attention. You automatically take a result of 12+ on all Spout Lore, Bardic Lore, Arcane Art, and Aid Another rolls during this performance.
+
+While you have the spotlight, no one under the GM’s control will take action - they are spellbound by your performance and will only act in response to another player attacking them directly. When your performance is finished, take a bow, for your time is up.
+
 ## Advanced moves
 
-When you gain a level from 2-5, choose from these moves
+*When you gain a level from 2-5, choose from these moves*
 
 ### Healing song
 
@@ -149,7 +157,7 @@ Get one move from another class. Treat your level as one lower for choosing the 
 
 Get one move from another class. Treat your level as one lower for choosing the move. 
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 
 ### Healing Chorus
 

@@ -1,3 +1,4 @@
+* [The Barbarian](Character%20playbooks/The%20Barbarian.md)
 * [The Bard](Character%20playbooks/The%20Bard.md)
 * [The Battlemaster](Character%20playbooks/The%20Battlemaster.md)
 * [The Chaneller](Character%20playbooks/The%20Chaneller.md)
@@ -7,6 +8,9 @@
 * [The Necromancer](Character%20playbooks/The%20Necromancer.md)
 * [The Paladin](Character%20playbooks/The%20Paladin.md)
 * [The Ranger](Character%20playbooks/The%20Ranger.md)
+* [The Shaman](Character%20playbooks/The%20Shaman.md)
+* [The Skirmisher](Character%20playbooks/The%20Skirmisher.md)
+* [The Templar](Character%20playbooks/The%20Templar.md)
 * [The Thief](Character%20playbooks/The%20Thief.md)
 * [The Wizard](Character%20playbooks/The%20Wizard.md)
 

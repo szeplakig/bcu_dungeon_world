@@ -96,9 +96,17 @@ for them.
 \_\_\_\_\_\_ does not understand life in the wild, so I
 will teach them.
 
+## Death Move: May We Die in The Forest
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+Death is an expected part of the natural world. You had accepted the inevitability of your death long ago, and you had also prepared for it, in ways no one likely expected. When you die, you reveal that you were the bait for the ultimate trap. Reveal the nature of this trap now, be it an ambush, a misdirection, or an unexpected reveal. 
+
+This trap should give your allies a major boon or advantage, or set up your enemies for destruction, or set major world events in motion. You may have had to become prey in the end, but you were always the hunter.
+
 ## Advanced Moves
 
-You may take this move only if it is your first advancement.
+*You may take this move only if it is your first advancement.*
 
 ### Half-Elven
 
@@ -106,7 +114,7 @@ You may take this move only if it is your first advancement.
 
 Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move.
 
-When you gain a level from 2-5, choose from these moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Wild Empathy
 
@@ -144,7 +152,7 @@ Dedicate yourself to a deity (name a new one or choose one that’s already been
 
 When you set the watch for the night, everyone takes +1 to take watch. 
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 
 ### Wild Speech
 

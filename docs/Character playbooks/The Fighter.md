@@ -98,9 +98,25 @@ I worry about the ability of \_\_\_\_\_\_ to survive in the dungeon.
 
 \_\_\_\_\_\_ is soft, but I will make them hard like me.
 
+## Death Move: Shatter Bars, Cleave Gates
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+When you finally fall, you make sure someone’s coming with you. With every last bit of strength you have in your weary bones, you make a final, ultimate strike. When you die, choose any enemy you can see and deal double your maximum damage to them. This attack does not stop at your target - everything between you and your target, as well as everything directly behind your target out to Far range, is also hit. 
+
+If you were using a bladed weapon, you create a rending scar, tearing through everything in its path. If you were using a bashing weapon, you create a crushing quake, shattering everything in its path. If you were using a stabbing weapon, you create a gouging hole, piercing through everything in its path. With this final blow completed, you collapse, very much dead.
+
+### Alternative Death Move: Legendary Weapon
+
+*When your Death Move would trigger, you may choose to use your Alternative Death Move instead.*
+
+There it is to your side; your best friend, your life, your weapon. Your weapon, that without you, was useless. Without your weapon, you were useless. You are soulbound to this weapon; with your last breath you grasp it and take your last stand. You automatically fully succeed on one Hack & Slash or Defend roll, before you finally fall. Your signature weapon now contains your soul; it becomes a magical weapon retaining 2 of its enhancements, and gaining one new magical effect.
+
+Its magical effects should be related to what you desired or stood for in life; Work with the GM to decide its power. This Legendary Weapon will be forever bloodstained; within lies your sleeping soul, waiting to be awakened.
+
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Merciless
 
@@ -142,7 +158,7 @@ You gain +1 armor.
 
 When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon. 
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 
 ### Bloodthirsty
 

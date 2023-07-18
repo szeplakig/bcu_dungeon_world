@@ -84,9 +84,17 @@ I stole something from \_\_\_\_\_\_.
 
 \_\_\_\_\_\_ and I have a con running.
 
+## Death Move: The Ultimate Theft
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+You always took every opportunity, grabbed every treasure, every upper hand you could get. Ultimately, even your Death is just another opportunity. When you die, you steal something straight from the realm of the dead. It can be literally anything, except your own life. 
+
+If you steal a soul, they come back to life, inhabiting your body. If you steal a magical artifact, it is found clutched in the hands of your corpse. If you steal invaluable knowledge, it can be found written in your blood on the walls around you.
+
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+*When you gain a level from 2–5, choose from these moves.*
 
 ### Cheap Shot
 
@@ -124,8 +132,7 @@ When you’re outnumbered, you have +1 armor.
 
 When you put out word to the criminal underbelly about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you’ll have to settle for something close or it comes with strings attached, your call.
 
-When you gain a level from 6–10, choose from these moves or
-the level 2–5 moves.
+*When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 
 ### Dirty Fighter
 

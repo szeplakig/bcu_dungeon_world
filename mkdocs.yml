@@ -13,6 +13,7 @@ nav:
   - 'Bonds and Alignment': 'Bonds and Alignment.md'
   - 'HP and Damage': 'HP and Damage.md'
   - 'Character playbooks':
+    - 'The Barbarian': 'Character playbooks/The Barbarian.md'
     - 'The Bard': 'Character playbooks/The Bard.md'
     - 'The Battlemaster': 'Character playbooks/The Battlemaster.md'
     - 'The Chaneller': 'Character playbooks/The Chaneller.md'
@@ -23,6 +24,8 @@ nav:
     - 'The Paladin': 'Character playbooks/The Paladin.md'
     - 'The Ranger': 'Character playbooks/The Ranger.md'
     - 'The Shaman': 'Character playbooks/The Shaman.md'
+    - 'The Skirmisher': 'Character playbooks/The Skirmisher.md'
+    - 'The Templar': 'Character playbooks/The Templar.md'
     - 'The Thief': 'Character playbooks/The Thief.md'
     - 'The Wizard': 'Character playbooks/The Wizard.md'
   - 'Equipment':  'Equipment.md'

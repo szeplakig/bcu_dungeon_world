@@ -110,10 +110,19 @@ I see the raw potential in \_\_\_\_\_\_.
 \_\_\_\_\_\_ and I have helped each other countless
 times.
 
+## Death Move: Rupture
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+You always wondered what would happen to your conduit if your body wasn’t here to impede it. Well, now the world gets to find out.
+
+When you die, the dam breaks. What’s left of your body explodes as raw magic pours through. Everyone nearby is engulfed or thrown backwards. Your conduit now hangs in the air, forever a gateway to the elemental planes.
+
+The area around this location will be permanently irradiated with your magic and quickly show signs of your primary element. Truly, Channeler, you have left your mark on the world.
+
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these
-moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Thread the Needle
 
@@ -156,8 +165,7 @@ Your Primary Element engulfs the weapons you wield. When you Hack and Slash and 
 
 When you reabsorb an unleashed Elemental, roll +CON. ✴On a 10+, the Elemental is sucked back through your Conduit. ✴On a 7-9, you absorb it, but your body suffers, take 1d4 damage (ignores armor).
 
-When you gain a level from 6-10, choose from these
-or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 
 ### Fissure
 

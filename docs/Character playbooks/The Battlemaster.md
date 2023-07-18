@@ -113,10 +113,19 @@ battlefield.
 I can always depend on \_\_\_\_\_\_ to follow my
 stratagems.
 
+## Death Move: Grand plan
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+It’s time. All of your preparation for this moment must finally come to fruition. When you die, your grand plan is revealed and your death proves to be the final gambit. Your allies may have known all along or maybe you kept them in the dark, knowing they wouldn’t understand.
+
+Work with the GM to reveal this master plot. The plan should give your allies a major boon or advantage, or set up your enemies for destruction, or set major world events in motion.
+
+Rest in peace, Battlemaster, knowing even now in death, the goals you had in life will soon be achieved.
+
 ## Advanced moves
 
-When you gain a level from 2-5, choose from these
-moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Block and Strike
 
@@ -179,7 +188,7 @@ choices:
 
 * “What mistake has my enemy made that I can exploit?”
 
-When you Change Tactics, on a 12+, you may ask this question for free
+*When you Change Tactics, on a 12+, you may ask this question for free*
 
 ### Self Defense Training
 

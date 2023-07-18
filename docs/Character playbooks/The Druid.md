@@ -91,9 +91,17 @@ I have showed \_\_\_\_\_\_ a secret rite of the Land.
 \_\_\_\_\_\_ has tasted my blood and I theirs. We are bound
 by it.
 
+## Death Move: Where the Wild Things Grow
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+Your connection to the wilds runs deeper than even you realized. When you die, the area around you is suddenly filled with the natural energies which had been pent up inside you. Your body is encased and preserved inside of a massive and sudden growth of nature related to your Land - perhaps a tree, a stone spire, or a glacier. In addition, everywhere within a mile or 10 suffers a massive biome shift, permanently gaining the features of your Land. 
+
+And finally, the area is suddenly populated with every type of creature or elemental whose form you have ever taken, the strongest of which will spawn right where you fell. You may be gone, but your mark on the world has been made.
+
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+*When you gain a level from 2–5, choose from these moves.*
 
 ### Hunter’s Brother
 
@@ -139,8 +147,7 @@ When you call on the primal spirits of fire, water, earth or air to perform a ta
 
 When you deal damage, take 1 balance. When you touch someone and channel the spirits of life you may spend balance. For each balance spent, heal 1d4 HP. 
 
-When you gain a level from 6–10, choose from these moves or
-the level 2–5 moves.
+*When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 
 ### Embracing No Form
 

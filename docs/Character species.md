@@ -42,11 +42,11 @@ At character creation, choose your preferred type of power: Wealth, Knowledge, F
 
 You may think us a proud people, but those that look deep enough to pierce our pride will see our eyes filled with sorrow. We are dying. No, not of age, time only makes us stronger. Not of disease, for our blood remains pure. But yet, we, our people, grow fewer in number every time another drakarn is laid to rest. Dark memories haunt every female drakarn, of eggs turning to dust with a touch, or worse, hatching unspeakable horrors. The eldest of us, as few as they are, speak of the Broodmother, she who gave life to us all, she who slumbers in a forgotten place, she who knows the secrets of our infertility. And so we wander the world, and search. May she be found before there is no one left to look.
 
-## Special move: Drakarn Broodmate
+### Special move: Drakarn Broodmate
 
 You have met all other drakarn. When you come across one, the GM will tell you useful information about them or ask you to come up with some.
 
-## Special move: Flamegut
+### Special move: Flamegut
 
 When you belch, two things catch fire. Choose one. The GM chooses the other.
 

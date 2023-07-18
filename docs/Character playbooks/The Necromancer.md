@@ -111,9 +111,19 @@ I can’t help but think what a powerful corpse \_\_\_\_\_\_ would make.
 
 \_\_\_\_\_\_ always leaves a trail (or should I say buffet?) of corpses.
 
+## Death Move: Undead Army
+
+*When you die (you fail, or forgo your Last Breath) you can use this move*
+
+Vengeance. Vengeance and hate. That’s all that’s left when your vision fades to black.
+
+When you die, the earth begins to tremble. Hands of bone and decaying flesh burst forth. Hundreds of bodies dig their way out. Your canopic jars break open and your corpse collection rises to lead the horde of undead. They seek only one thing: revenge.
+
+The ones who caused your death will be torn apart. Your army will exist until your vengeance is achieved or every last corpse is destroyed. Let them know true peril, Necromancer, show them once and for all.
+
 ## Advanced moves
 
-When you gain a level from 2-5, choose from these moves.
+*When you gain a level from 2-5, choose from these moves.*
 
 ### Unliving Large
 
@@ -159,8 +169,7 @@ When you scour a graveyard for new material, you may always ask the GM: What dea
 * ...had the richest burial?
 * ...lived the most noteworthy life?
 
-When you gain a level from 6-10, choose from these
-or the level 2-5 moves.
+*When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 
 ### Colossus
 
