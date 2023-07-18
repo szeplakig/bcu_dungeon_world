@@ -49,7 +49,8 @@ When you or someone you have a bond with takes damage from an outside source, it
 * Deal your damage to an enemy (Cost: 2)
 * Create an obstacle or distraction that a single enemy has to deal with before they can do anything else (Cost: 3)
 * The GM will help you reveal a trap, ambush, or plan that gives you and your allies a surprising advantage (Cost: 4)
-  Multiple Gambits can be used and the effects stack. After the end of a battle or when it makes sense, your Gambit count resets to 0.
+
+Multiple Gambits can be used and the effects stack. After the end of a battle or when it makes sense, your Gambit count resets to 0.
 
 ### War Knowledge
 
@@ -83,14 +84,19 @@ Use someone as bait to give yourself an advantage
 ## Gear
 
 Your Load is 10+STR. You carry dungeon rations (5 uses, 1 weight), a spyglass (1 weight), and a dagger (hand, 1 weight).
+
 Choose your defenses:
 
 * Scale armor (2 armor, clumsy, 3 weight)
 * Chainmail (1 armor, 1 weight) and adventuring gear (5 uses, 1 weight)
-  Choose your armament:
+
+Choose your armament:
+
 * Warhammer (close, 1 weight) and shield (+1 armor, 2 weight)
 * Halberd (reach, +1 damage, two-handed, 2 weight)
-  Choose one:
+
+Choose one:
+
 * Bag of books (5 uses, 2 weight)
 * Bandages (3 uses, slow, 0 weight)
 
@@ -98,11 +104,13 @@ Choose your defenses:
 
 Fill in the name of one of your companions in at least one:
 
-\___ has a lot to learn about the ways of
+\_\_\_\_\_\_ has a lot to learn about the ways of
 battle.
-My respect for ___ was earned on the
+
+My respect for \_\_\_\_\_\_ was earned on the
 battlefield.
-I can always depend on ___ to follow my
+
+I can always depend on \_\_\_\_\_\_ to follow my
 stratagems.
 
 ## Advanced moves
@@ -170,7 +178,8 @@ This question is added to your Discern Realities list of
 choices:
 
 * “What mistake has my enemy made that I can exploit?”
-  When you Change Tactics, on a 12+, you may ask this question for free
+
+When you Change Tactics, on a 12+, you may ask this question for free
 
 ### Self Defense Training
 
@@ -183,11 +192,13 @@ Spend 2 Gambit to negate the damage of any attack.
 ### Battlefield Desperation
 
 *Requires: Battlefield Motivation*
+
 When you use Battlefield Motivation, you rally your allies so well that instead of just ignoring a single debility’s effects, the debility turns into a +1 bonus for that modifier instead (this modifier cannot go above +3). This lasts until the debility is made worse or the end of the battle.
 
 ### Command Ally
 
 *Replaces: Misdirection*
+
 You can spend 2 Gambits to let an ally make a free attack (as if they rolled a 10+) against an enemy. You may spend an additional Gambit to maximize the damage.
 
 ### Surprise Attack
@@ -197,6 +208,8 @@ Choose either Called Shot (Ranger) or Backstab (Thief). You gain this move. If t
 ### Tactical Teacher
 
 You gain an additional Bond:
-I will teach ___ to have a tactical mind.
+
+I will teach \_\_\_\_\_\_ to have a tactical mind.
+
 Whoever this bond is with can choose to gain the effects
 of your current Tactics.

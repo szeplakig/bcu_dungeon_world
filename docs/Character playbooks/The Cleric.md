@@ -15,7 +15,9 @@ You serve and worship some deity or power which grants you spells. Give your god
 * Knowledge and Hidden Things
 * The Downtrodden and Forgotten
 * What Lies Beneath
-  Choose one precept of your religion:
+
+Choose one precept of your religion:
+
 * Your religion preaches the sanctity of suffering, add Petition: Suffering
 * Your religion is cultish and insular, add Petition: Gaining Secrets
 * Your religion has important sacrificial rites, add Petition: Offering
@@ -57,26 +59,36 @@ Harm another to prove the superiority of your church or god.
 
 ### Gear
 
-Your load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). Choose your defenses:
+Your load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). 
+
+Choose your defenses:
 
 * Chainmail (1 armor, 1 weight)
 * Shield (+1 armor, 2 weight)
-  Choose your armament:
+
+Choose your armament:
+
 * Warhammer (close, 1 weight)
 * Mace (close, 1 weight)
 * Staff (close, two-handed, 1 weight) and bandages (0 weight)
-  Choose one:
+
+Choose one:
+
 * Adventuring gear (1 weight) and dungeon rations (5 uses, 1 weight)
 * Healing potion (0 weight)
 
 ### Bonds
 
 Fill in the name of one of your companions in at least one:
-\_______________ has insulted my deity; I do not trust them.
-\_______________ is a good and faithful person; I trust them
+
+\_\_\_\_\_\_ has insulted my deity; I do not trust them.
+
+\_\_\_\_\_\_ is a good and faithful person; I trust them
 implicitly.
-\_______________ is in constant danger, I will keep them safe.
-I am working on converting _______________ to my faith.
+
+\_\_\_\_\_\_ is in constant danger, I will keep them safe.
+
+I am working on converting \_\_\_\_\_\_ to my faith.
 
 ## Advanced Moves
 
@@ -135,6 +147,7 @@ the level 2–5 moves.
 ### Anointed
 
 *Requires: Chosen One*
+
 Choose one spell in addition to the one you picked for chosen one. You are granted that spell as if it was one level lower.
 
 ### Apotheosis
@@ -148,31 +161,37 @@ When you take time after a conflict to dedicate your victory to your deity and d
 ### Providence
 
 *Replaces: Serenity*
+
 You ignore the -1 penalty from two spells you maintain.
 
 ### Greater First Aid
 
 *Requires: First Aid*
+
 Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.
 
 ### Divine Invincibility
 
 *Replaces: Divine Intervention*
+
 When you commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.
 
 ### Martyr
 
 *Replaces: Penitent*
+
 When you take damage and embrace the pain, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to cast a spell and add your level to any damage done or healed by the spell.
 
 ### Divine Armor
 
 *Replaces: Divine Protection*
+
 When you wear no armor or shield you get 3 armor.
 
 ### Greater Empower
 
 *Replaces: Empower*
+
 When you cast a spell, on a 10–11 you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.
 
 * The spell’s effects are doubled
@@ -236,7 +255,8 @@ You invoke a hungry spirit to possess a recently-dead body and serve This create
 * It’s durable. It has +2 HP for each level you have.
 * It has a functioning brain and can complete complex tasks.
 * It does not appear obviously dead, at least for a day or two.
-  The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you end the spell. While this spell is ongoing you take -1 to cast a spell.
+
+The zombie lasts until it is destroyed by taking damage in excess of its HP, or until you end the spell. While this spell is ongoing you take -1 to cast a spell.
 
 #### Cure Moderate Wounds (Level 3)
 
@@ -251,10 +271,11 @@ Choose an area you can see: it’s filled with supernatural darkness and shadow.
 Tell the GM you would like to resurrect a corpse whose soul has not yet fully departed this world. Resurrection is always possible, but the GM will give you one or more (possibly all) of these conditions to fulfill:
 
 * It’s going to take days/weeks/months
-* You must get help from ___ . ____
+* You must get help from \_\_\_\_\_\_.
 * It will require a lot of money
-* You must sacrifice ___ to do it
-  The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.
+* You must sacrifice \_\_\_\_\_\_ to do it
+
+The GM may, depending on the circumstances, allow you to resurrect the corpse now, with the understanding that the conditions must be met before it’s permanent, or require you to meet the conditions before the corpse is resurrected.
 
 #### Hold Person (Level 3)
 

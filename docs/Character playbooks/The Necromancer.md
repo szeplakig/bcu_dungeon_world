@@ -16,7 +16,8 @@ When you seek to use the blackest of magics to reanimate the dead, choose a near
 * The flesh resists you, start with 1 less Power.
 * You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
 * Magic barely holds the corpse together and afterwards, the corpse will disintegrate.
-  When you run out of Power, the Animated Corpse collapses. If there’s anything left, you can attempt to raise it again.
+
+When you run out of Power, the Animated Corpse collapses. If there’s anything left, you can attempt to raise it again.
 
 ### Attack Command
 
@@ -34,13 +35,13 @@ When you or an Animated Corpse eats part of a sentient creature’s brain, the G
 
 When you use dark magic to curse someone or something, tell the GM what you’re trying to achieve. Curses are always possible, but the GM will give you one to four conditions, such as:
 
-* It requires the blood of ___ .
+* It requires the blood of \_\_\_\_\_\_.
 * It will require a lot of money
 * You’ll need a rare component
 * The best you can do is a lesser or limited version
 * It will take days/weeks/months before the curse takes effect
-* \___ will know or hear about it
-* You’ll need to travel to ___
+* \_\_\_\_\_\_ will know or hear about it
+* You’ll need to travel to \_\_\_\_\_\_
 
 ### Replacement Parts
 
@@ -83,14 +84,19 @@ Truly horrify someone
 ## Gear
 
 Your Load is 7+STR. You carry dungeon rations (5 uses, 1 weight), a shovel (1 weight), and a needle and thread (0 weight).
+
 Choose one:
 
 * Leather armor (1 armor, 1 weight)
 * 3 healing potions and adventuring gear (5 uses, 1 weight)
-  Choose your armament:
+
+Choose your armament:
+
 * Bone dagger (hand, 1 weight)
 * Skull staff (close, two-handed, 1 weight)
-  You start with 3 Hexed Canopic Jars (0 weight), one jar already has a corpse in it:
+
+You start with 3 Hexed Canopic Jars (0 weight), one jar already has a corpse in it:
+
 * A one-armed dwarf
 * Someone you used to know personally
 * A skinless hound
@@ -99,9 +105,11 @@ Choose one:
 
 Fill in the name of one of your companions in at least one:
 
-\________ doesn’t seem to fear me, I must see to that.
-I can’t help but think what a powerful corpse ________ would make.
-\________ always leaves a trail (or should I say buffet?) of corpses.
+\_\_\_\_\_\_ doesn’t seem to fear me, I must see to that.
+
+I can’t help but think what a powerful corpse \_\_\_\_\_\_ would make.
+
+\_\_\_\_\_\_ always leaves a trail (or should I say buffet?) of corpses.
 
 ## Advanced moves
 
@@ -157,16 +165,19 @@ or the level 2-5 moves.
 ### Colossus
 
 *Requires: Unliving Large*
+
 When you Raise the Dead, you can use the corpse of a Huge creature.
 
 ### Corpse Explosion
 
 *Requires: Disposable*
+
 Corpses you deem Disposable explode instead of disintegrating, dealing their damage to anyone within Reach.
 
 ### Mortiferous
 
 *Replaces: Monstrous*
+
 Animated Corpses under your control deal 1d10 damage. When you use Attack Command, on a 12+ the Animated Corpse deals the full 10 damage (no roll).
 
 ### Undead Pack Rat
@@ -176,6 +187,7 @@ You have an additional Hexed Canopic Jar that can also be used to store replacem
 ### Abomination
 
 *Requires: Amalgamation*
+
 Choose up to three corpses to amalgamate.
 
 ### Hopeless Necromantic

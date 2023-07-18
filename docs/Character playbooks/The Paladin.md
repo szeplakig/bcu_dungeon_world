@@ -20,24 +20,28 @@ When you give an NPC an order based on your divine authority, roll+Cha. ✴On a 
 * Do what you say
 * Back away cautiously, then flee
 * Attack you
-  ✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.
+
+✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.
 
 ### Quest
 
 When you dedicate yourself to a mission through prayer and ritual cleansing, state what you set out to do:
 
-* Slay ___ , a great blight on the land
-* Defend ___ from the iniquities that beset them
-* Discover the truth of _________ .
-  Then choose up to two boons:
-* An unwavering sense of direction to _________ .
-* Invulnerability to _________ (e.g., edged weapons, fire, enchantment,
-  etc.)
+* Slay \_\_\_\_\_\_, a great blight on the land
+* Defend \_\_\_\_\_\_ from the iniquities that beset them
+* Discover the truth of \_\_\_\_\_\_.
+
+Then choose up to two boons:
+
+* An unwavering sense of direction to \_\_\_\_\_\_.
+* Invulnerability to \_\_\_\_\_\_ (e.g., edged weapons, fire, enchantment, etc.)
 * A mark of divine authority
 * Senses that pierce lies
 * A voice that transcends language
 * A freedom from hunger, thirst, and sleep
-  The GM will then tell you what vow or vows is required of you to maintain your blessing:
+
+The GM will then tell you what vow or vows is required of you to maintain your blessing:
+
 * Honor (forbidden: cowardly tactics and tricks)
 * Temperance (forbidden: gluttony in food, drink, and pleasure of the flesh)
 * Piety (required: observance of daily holy services)
@@ -58,11 +62,14 @@ Endanger yourself to protect someone weaker than you.
 ## Gear
 
 Your load is 12+Str. You start with dungeon rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some mark of faith, describe it (0 weight). 
+
 Choose your weapon:
 
 * Halberd (reach, +1 damage, two-handed, 2 weight)
 * Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)
-  Choose one:
+
+Choose one:
+
 * Adventuring gear (1 weight)
 * Dungeon rations (1 weight) and healing potion (0 weight)
 
@@ -70,13 +77,14 @@ Choose your weapon:
 
 Fill in the name of one of your companions in at least one:
 
-\_______________ ’s misguided behavior endangers their very
-soul!
-\_______________ has stood by me in battle and can be trusted
+\_\_\_\_\_\_’s misguided behavior endangers their very soul!
+
+\_\_\_\_\_\_ has stood by me in battle and can be trusted
 completely.
-I respect the beliefs of _______________ but hope they will
-someday see the true way.
-\_______________ is a brave soul, I have much to learn from
+
+I respect the beliefs of \_\_\_\_\_\_ but hope they will someday see the true way.
+
+\_\_\_\_\_\_ is a brave soul, I have much to learn from
 them.
 
 ## Advanced Moves
@@ -129,41 +137,49 @@ the level 2–5 moves.
 ### Evidence of Faith
 
 *Requires: Divine Favor*
+
 When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.
 
 ### Holy Smite
 
 *Replaces: Smite*
+
 While on a quest you deal +1d8 damage.
 
 ### Ever Onward
 
 *Replaces: Charge!*
+
 When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.
 
 ### Impervious Defender
 
 *Replaces: Staunch Defender*
+
 When you defend you always get +1 hold, even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.
 
 ### Tandem Strike
 
 *Replaces: Setup Strike*
+
 When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.
 
 ### Divine Protection
 
 *Replaces: Holy Protection*
+
 You get +2 armor while on a quest.
 
 ### Divine Authority
 
 *Replaces: Voice of Authority*
+
 Take +1 to order hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.
 
 ### Perfect Hospitaller
 
 *Replaces: Hospitaller*
+
 When you heal an ally, you heal +2d8 damage.
 
 ### Indomitable

@@ -24,7 +24,8 @@ When you release a spell you’ve prepared, roll+Int. ✴On a 10+, the spell is 
 * You draw unwelcome attention or put yourself in a spot. The GM will tell you how.
 * The spell disturbs the fabric of reality as it is cast—take -1 ongoing to cast a spell until the next time you Prepare Spells.
 * After it is cast, the spell is forgotten. You cannot cast the spell again until you prepare spells.
-  Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.
+
+Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.
 
 ### Spell Defense
 
@@ -35,12 +36,12 @@ You may end any ongoing spell immediately and use the energy of its dissipation 
 When you draw on a place of power to create a magical effect, tell the GM what you’re trying to achieve. Ritual effects are always possible, but the GM will give you one to four of the following conditions:
 
 * It’s going to take days/weeks/months
-* First you must ___
-* You’ll need help from ___
+* First you must \_\_\_\_\_\_
+* You’ll need help from \_\_\_\_\_\_
 * It will require a lot of money
 * The best you can do is a lesser version, unreliable and limited
-* You and your allies will risk danger from ___
-* You’ll have to disenchant ___ to do it
+* You and your allies will risk danger from \_\_\_\_\_\_
+* You’ll have to disenchant \_\_\_\_\_\_ to do it
 
 ## Alignment
 
@@ -59,14 +60,19 @@ Use magic to cause terror and fear.
 ## Gear
 
 Your Load is 7+Str. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). 
+
 Choose your defenses:
 
 * Leather armor (1 armor, 1 weight)
 * Bag of books (5 uses, 2 weight) and 3 healing potions
-  Choose your weapon:
+
+Choose your weapon:
+
 * Dagger (hand, 1 weight)
 * Staff (close, two-handed, 1 weight)
-  Choose one:
+
+Choose one:
+
 * Healing potion (0 weight)
 * 3 antitoxins (0 wieght)
 
@@ -74,11 +80,11 @@ Choose your defenses:
 
 Fill in the name of one of your companions in at least one:
 
-\_______________ will play an important role in the events to
-come. I have foreseen it!
-\_______________ is keeping an important secret from me.
-\_______________ is woefully misinformed about the world; I
-will teach them all that I can.
+\_\_\_\_\_\_ will play an important role in the events to come. I have foreseen it!
+
+\_\_\_\_\_\_ is keeping an important secret from me.
+
+\_\_\_\_\_\_ is woefully misinformed about the world; I will teach them all that I can.
 
 ## Advanced moves
 
@@ -134,11 +140,13 @@ the level 2-5 moves.
 ### Master
 
 *Requires: Prodigy*
+
 Choose one spell in addition to the one you picked for prodigy. You prepare that spell as if it were one level lower.
 
 ### Greater Empowered Magic
 
 *Replaces: Empowered Magic*
+
 When you cast a spell, on a 10-11 you have the option of choosing from the 7-9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free:
 
 * The spell’s effects are doubled
@@ -147,21 +155,25 @@ When you cast a spell, on a 10-11 you have the option of choosing from the 7-9 l
 ### Enchanter’s Soul
 
 *Requires: Enchanter*
+
 When you have time and safety with a magic item in a place of power you can empower that item so that the next time you use it its effects are amplified, the GM will tell you exactly how.
 
 ### Highly Logical
 
 *Replaces: Logical*
+
 When you use strict deduction to analyze your surroundings, you can discern realities with Int instead of Wis. On a 12+ you get to ask the GM any three questions, not limited by the list.
 
 ### Arcane Armor
 
 *Replaces: Arcane Ward*
+
 As long as you have at least one prepared spell of first level or higher, you have +4 armor.
 
 ### Protective Counter
 
 *Requires: Counterspell*
+
 When an ally within sight of you is affected by an arcane spell, you can counter it as if it affected you. If the spell affects multiple allies you must counter for each ally separately.
 
 ### Ethereal Tether
@@ -275,7 +287,8 @@ A monster appears and aids you as best it can. Treat it as your character, but w
 * It does 1d8 damage
 * Its bond to your plane is strong: +2 HP for each level you have
 * It has some useful adaptation
-  The GM will tell you the type of monster you get based on the traits you select. The creature remains on this plane until it dies or you dismiss it. While the spell is ongoing you take -1 to cast a spell. 
+
+The GM will tell you the type of monster you get based on the traits you select. The creature remains on this plane until it dies or you dismiss it. While the spell is ongoing you take -1 to cast a spell. 
 
 #### Dominate (Level 7, Enchantment, Ongoing)
 
@@ -285,7 +298,8 @@ Your touch pushes your mind into someone else’s. You gain 1d4 hold. Spend one 
 * Give you something they hold
 * Make a concerted attack on a target of your choice
 * Truthfully answer one question
-  If you run out of hold the spell ends. If the target takes damage you lose 1 hold. While the spell is ongoing you cannot cast a spell. 
+
+If you run out of hold the spell ends. If the target takes damage you lose 1 hold. While the spell is ongoing you cannot cast a spell. 
 
 #### True Seeing (Level 7, Divination, Ongoing)
 

@@ -56,15 +56,19 @@ Shift danger or blame from yourself to someone else.
 ## Gear
 
 Your load is 9+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. 
+
 Choose your arms:
 
 * Dagger (hand, 1 weight) and short sword (close, 1 weight)
 * Rapier (close, precise, 1 weight)
-  Choose a ranged weapon:
+
+Choose a ranged weapon:
+
 * 3 throwing daggers (thrown, near, 0 weight)
-* Ragged Bow (near, 2 weight) and bundle of arrows (3 ammo, 1
-  weight)
-  Choose one:
+* Ragged Bow (near, 2 weight) and bundle of arrows (3 ammo, 1 weight)
+
+Choose one:
+
 * Adventuring gear (1 weight)
 * Healing potion (0 weight)
 
@@ -72,10 +76,13 @@ Choose your arms:
 
 Fill in the name of one of your companions in at least one:
 
-I stole something from _______________ .
-\_______________ has my back when things go wrong.
-\_______________ knows incriminating details about me.
-\_______________ and I have a con running.
+I stole something from \_\_\_\_\_\_.
+
+\_\_\_\_\_\_ has my back when things go wrong.
+
+\_\_\_\_\_\_ knows incriminating details about me.
+
+\_\_\_\_\_\_ and I have a con running.
 
 ## Advanced Moves
 
@@ -123,16 +130,19 @@ the level 2–5 moves.
 ### Dirty Fighter
 
 *Replaces: Cheap Shot*
+
 When using a precise or hand weapon, your backstab deals an extra +1d8 damage and all other attacks deal +1d4 damage.
 
 ### Extremely Cautious
 
 *Replaces: Cautious*
+
 When you use trap expert you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a trap the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.
 
 ### Alchemist
 
 *Replaces: Brewer*
+
 When you have you have time to gather materials and a safe place to brew you can create three doses of any poison you’ve used before. Alternately you can describe the effects of a poison you’d like to create. The GM will tell you that you can create it, but with one or more caveats:
 
 * It will only work under specific circumstances
@@ -143,6 +153,7 @@ When you have you have time to gather materials and a safe place to brew you can
 ### Serious Underdog
 
 *Replaces: Underdog*
+
 You have +1 armor. When you’re outnumbered, you have +2 armor instead.
 
 ### Evasion

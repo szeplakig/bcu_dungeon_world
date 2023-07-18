@@ -73,7 +73,7 @@ When you construct a trap, roll. If you have...
 
 ## Firbolg
 
-The clans may be scattered now, but I remember a time of glory! I told you stories of Lorna the Brute. Now there was a warrior! She must have been 8 feet tall with limbs the size of a horse’s neck. It’s no wonder she was clanmaster for two decades. I know what they say. That it was only her savage methods that kept the clans united. It’s true she saw fear as the only true motivator. And I won’t deny the world now sees us as barbarians. Maybe they’re right to think as much.
+The clans have been scattered, warring each other for time immemorial. But now, comes a time of glory! Now comes the regin of Lorna the Brute. Now there is a warrior! 8 feet tall, with limbs the size of a horse's neck. Is it a wonder she's been clanmaster for two decades? But she did what nobody ever could before, she formed a federation, joining the warring clans in a peace - an internal peace that let us fight the big kingdoms of the small folk, and for the first time in centuries, conquer fertile land to work. If you ask me, we should go further south still, who's to stop us...
 
 ### Special move: Firbolg wrestling
 

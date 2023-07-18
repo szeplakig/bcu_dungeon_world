@@ -21,7 +21,8 @@ in your Land.
 * The Towering Mountains
 * The Frozen North
 * The Blasted Wasteland
-  Chose a tell — a physical attribute that marks you as born of the soil — that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.
+
+Chose a tell — a physical attribute that marks you as born of the soil — that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.
 
 ### By Nature Sustained
 
@@ -58,15 +59,20 @@ Eliminate an unnatural menace.
 ## Gear
 
 Your load is 6+Str. You carry some token of your land, describe it. 
+
 Choose your defenses:
 
 * Hide armor (1 armor, 1 weight)
 * Wooden shield (+1 armor, 1 weight)
-  Choose your armament:
+
+Choose your armament:
+
 * Shillelagh (close, 2 weight)
 * Staff (close, two-handed, 1 weight)
 * Spear (close, thrown, near, 1 weight)
-  Choose one:
+
+Choose one:
+
 * Adventuring gear (1 weight)
 * Poultices and herbs (2 uses, 1 weight)
 * Halfling pipeleaf (0 weight)
@@ -76,11 +82,13 @@ Choose your defenses:
 
 Fill in the name of one of your companions in at least one:
 
-\____________________ smells more like prey than a hunter.
-The spirits spoke to me of a great danger that follows
-\______________ .
-I have showed ___ a secret rite of the Land.
-\___ has tasted my blood and I theirs. We are bound
+\_\_\_\_\_\_ smells more like prey than a hunter.
+
+The spirits spoke to me of a great danger that follows\_\_\_\_\_\_.
+
+I have showed \_\_\_\_\_\_ a secret rite of the Land.
+
+\_\_\_\_\_\_ has tasted my blood and I theirs. We are bound
 by it.
 
 ## Advanced Moves
@@ -145,6 +153,7 @@ You are able to study the essence of specific individuals to take their exact fo
 ### Blood and Thunder
 
 *Replaces: Red of Tooth and Claw*
+
 When you are in an appropriate animal form (something dangerous) increase your damage to d10.
 
 ### The Druid Sleep
@@ -154,6 +163,7 @@ When you take this move, the next opportunity that you have safety and time to s
 ### World-Talker
 
 *Requires: Thing-Talker*
+
 You see the patterns that make up the fabric of the world. You may now apply your spirit tongue, shapeshifter and studied essence moves to pure elements—fire, water, air and earth.
 
 ### Stalker’s Sister
@@ -163,6 +173,7 @@ Choose one move from the ranger class list.
 ### Formshaper
 
 *Requires: Formcrafter*
+
 You may increase your armor by 1 or deal an additional +1d4 damage while in an animal form. Choose which when you shapeshift.
 
 ### Chimera

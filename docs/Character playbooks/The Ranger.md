@@ -26,10 +26,11 @@ You have a supernatural connection with a loyal animal. You can’t talk to it p
 Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule
 
 Choose a base:
-• Ferocity +2, Cunning +1, 1 Armor, Instinct +1
-• Ferocity +2, Cunning +2, 0 Armor, Instinct +1
-• Ferocity +1, Cunning +2, 1 Armor, Instinct +1
-• Ferocity +3, Cunning +1, 1 Armor, Instinct +2
+
+* Ferocity +2, Cunning +1, 1 Armor, Instinct +1
+* Ferocity +2, Cunning +2, 0 Armor, Instinct +1
+* Ferocity +1, Cunning +2, 1 Armor, Instinct +1
+* Ferocity +3, Cunning +1, 1 Armor, Instinct +2
 
 Choose as many strengths as its ferocity:
 Fast, burly, huge, calm, adaptable, quick reflexes, tireless, camouflage, ferocious, intimidating, keen senses, stealthy
@@ -70,25 +71,29 @@ Help an animal or spirit of the wild.
 ## Gear
 
 Your load is 11+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle of arrows (3 ammo, 1 weight). 
+
 Choose your armament:
 
 * Hunter’s bow (near, far, 1 weight) and short sword (close, 1 weight)
 * Hunter’s bow (near, far, 1 weight) and spear (reach, 1 weight)
-  Choose one:
+
+Choose one:
+
 * Adventuring gear (1 weight) and dungeon rations (1 weight)
-* Adventuring gear (1 weight) and bundle of arrows (3 ammo, 1
-  weight)
+* Adventuring gear (1 weight) and bundle of arrows (3 ammo, 1 weight)
 
 ## Bonds
 
 Fill in the name of one of your companions in at least one:
 
-I have guided _______________ before and they owe me for it.
-\_______________ is a friend of nature, so I will be their friend
-as well.
-\_______________ has no respect for nature, so I have no respect
+I have guided \_\_\_\_\_\_ before and they owe me for it.
+
+\_\_\_\_\_\_ is a friend of nature, so I will be their friend as well.
+
+\_\_\_\_\_\_ has no respect for nature, so I have no respect
 for them.
-\_______________ does not understand life in the wild, so I
+
+\_\_\_\_\_\_ does not understand life in the wild, so I
 will teach them.
 
 ## Advanced Moves
@@ -97,8 +102,9 @@ You may take this move only if it is your first advancement.
 
 ### Half-Elven
 
-*Requires: Elf or Human species*
-Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move if you took the human one at character creation or vice versa.
+*Requires: Human species*
+
+Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move.
 
 When you gain a level from 2-5, choose from these moves.
 
@@ -143,16 +149,19 @@ When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
 ### Wild Speech
 
 *Replaces: Wild Empathy*
+
 You can speak with and understand any non-magical, non-planar creature.
 
 ### Hunter’s Prey
 
 *Replaces: Familiar Prey*
+
 When you spout lore about a monster you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.
 
 ### Viper’s Fangs
 
 *Replaces: Viper’s Strike*
+
 When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.
 
 ### Smaug’s Belly
@@ -162,11 +171,13 @@ When you know your target’s weakest point your arrows have 2 piercing.
 ### Strider
 
 *Replaces: Follow Me*
+
 When you undertake a perilous journey you can take two roles. Roll twice and use the better result for both roles.
 
 ### A Safer Place
 
 *Replaces: A Safe Place*
+
 When you set the watch for the night everyone takes +1 to take watch. After a night in camp when you set the watch everyone takes +1 forward.
 
 ### Observant

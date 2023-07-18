@@ -8,10 +8,13 @@ Your base damage is d4.
 ### Conduit
 
 Within you resides a gateway to pure magic. Choose a Primary Element. Your magic is of this element.
-*Flame, Frost, Shock, Shadow, Wind, Water, or* ___
+
+*Flame, Frost, Shock, Shadow, Wind, Water, or* \_\_\_\_\_\_
+
 Choose an Emanation Point. This is where magic leaves
 your body.
-*Forehead, Eyes, Mouth, Chest, Fingers, Palms, or* ___
+
+*Forehead, Eyes, Mouth, Chest, Fingers, Palms, or* \_\_\_\_\_\_
 
 ### Channel
 
@@ -28,7 +31,8 @@ When you beckon inwards to call forth an Elemental being, choose any Technique t
 * You must immediately spend 1 Control
 * It embodies a different tag instead (the GM will tell you which)
 * It resents you and will certainly be hostile later
-  As long as the Elemental remains leashed, you have the Elemental Protection and Elemental Attack moves. When you have 0 Control, your elemental is released! It can act and use its tag at will, and its HP is 2x your level. Maybe it’s friendly, hostile, mischievous, or just bored.
+
+As long as the Elemental remains leashed, you have the Elemental Protection and Elemental Attack moves. When you have 0 Control, your elemental is released! It can act and use its tag at will, and its HP is 2x your level. Maybe it’s friendly, hostile, mischievous, or just bored.
 
 ### Trickle
 
@@ -44,7 +48,9 @@ You have special Techniques that allow limited control over the flow of magic. W
 * Barrier (+1 Armor until next Channel)
 * Hazard (Environmental effect)
 * Forceful
-  Examples:
+
+Examples:
+
 * Wind Push (Blast, Forceful)
 * Earth Wall (Barrier, Hazard)
 * Icy Ground (Hazard, Forceful)
@@ -75,14 +81,19 @@ Use your Conduit to inflict devastation upon the world
 ## Gear
 
 Your Load is 9+STR. You carry dungeon rations (5 uses, 1 weight) and a soothing balm (0 weight) that feels nice on your emanation point.
+
 Choose one:
 
 * Leather armor (1 armor, 1 weight)
 * 3 healing potions and adventuring gear (5 uses, 1 weight)
-  Choose your backup weapon:
+
+Choose your backup weapon:
+
 * Knife (hand, 1 weight)
 * Bō staff (close, two-handed, 1 weight)
-  Choose one:
+
+Choose one:
+
 * Smelling salts (0 weight) and 1 antitoxin (0 weight)
 * Pouch with 1d10 coins
 
@@ -90,10 +101,13 @@ Choose one:
 
 Fill in the name of one of your companions in at least one:
 
-I will make _________ respect the power I wield.
-I see the raw potential in ___ .
-\___ is wary of my power, for good reason.
-\___ and I have helped each other countless
+I will make \_\_\_\_\_\_ respect the power I wield.
+
+I see the raw potential in \_\_\_\_\_\_.
+
+\_\_\_\_\_\_ is wary of my power, for good reason.
+
+\_\_\_\_\_\_ and I have helped each other countless
 times.
 
 ## Advanced Moves
@@ -148,6 +162,7 @@ or the level 2-5 moves.
 ### Fissure
 
 *Requires: Thread the Needle*
+
 When you use Thread the Needle, you can choose to roll up to three bonus damage dice (1d4, 2d4, or 3d4). For each roll that is a 1 or 2, you are also hurt by the bonus damage from that roll (ignores armor).
 
 ### Area Burst
@@ -161,11 +176,13 @@ Your Barrier tag now adds +2 Armor until your next Channel.
 ### Devastation Wave
 
 *Requires: Signature Technique*
+
 When you use your Signature Technique, you may choose to temporarily add a fourth tag, but you take 1d4 damage (ignores armor) when it’s channeled.
 
 ### Osmosis
 
 *Requires: Reabsorb Elemental*
+
 When you use Reabsorb Elemental and roll a 10+, your body heals 1d6 damage.
 
 ### Fallout
@@ -184,11 +201,13 @@ When you Channel and roll 12+, choose something on your target (an item, a limb,
 ### Don’t Blink
 
 *Requires: Teleport*
+
 Techniques with the “Teleport” tag can now be used on other targets.
 
 ### Conduit Champion
 
 *Replaces: Conduit Warrior*
+
 Your Primary Element engulfs your body and the weapons you wield. When you Hack and Slash and roll a 10+, you can add 1 Technique tag and the Barrier tag to the attack. The Barrier lasts until your next Channel or Hack and Slash.
 
 ### Reckless Summoner
