@@ -7,7 +7,11 @@ theme:
       slate
 nav:
   - 'Home': 'index.md'
-  - 'Moves': 'Moves.md'
+  - 'Moves:'
+    - 'General': 'Moves.md'
+    - 'Basic moves': 'Moves/Basic moves.md'
+    - 'Journey moves': 'Moves/Journey moves.md'
+    - 'Special moves': 'Moves/Special moves.md'
   - 'Character creation': 'Character creation.md'
   - 'Character species': 'Character species.md'
   - 'Bonds and Alignment': 'Bonds and Alignment.md'
