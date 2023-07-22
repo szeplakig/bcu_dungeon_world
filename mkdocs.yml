@@ -7,7 +7,7 @@ theme:
       slate
 nav:
   - 'Home': 'index.md'
-  - 'Moves:'
+  - 'Moves':
     - 'General': 'Moves.md'
     - 'Basic moves': 'Moves/Basic moves.md'
     - 'Journey moves': 'Moves/Journey moves.md'
