@@ -1,5 +1,10 @@
 # BCU Dungeon World
 
+## Update: 2023-07-23
+### New section:
+- FAQ: When ambiguous rulings come up, I'll try to remember to put them here for future reference
+### (Hopefully) better formatting & layout
+
 ## Update: 2023-07-18
 ### New playbooks:
 - The Barbarian
