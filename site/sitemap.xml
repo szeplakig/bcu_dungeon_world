@@ -2,137 +2,212 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Bonds%20and%20Alignment/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20creation/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20species/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Equipment/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/FAQ/</loc>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/HP%20and%20Damage/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Idea%20list/</loc>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Moves/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Player%20best%20practices/</loc>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Barbarian/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Bard/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Battlemaster/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Chaneller/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Cleric/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Druid/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Fighter/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Necromancer/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Paladin/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Ranger/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Shaman/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Skirmisher/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Templar/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Thief/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Wizard/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Fronts/</loc>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Location%20Builder/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Locations/Location%20Builder/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Locations/Steading%20tags/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Locations/Steading%20templates/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Locations/Updating%20steadings/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Items/Weapons/Fire%20lance/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Official/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Abomination/Deep%20Spawn/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Abomination/Mage%20Ripper%20Swarm/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Undead/Boneyard/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Undead/Crawling%20Apocalypse/</loc>
+         <lastmod>2023-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Undead/Fermented%20Mummy/</loc>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Moves/Basic%20moves/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Moves/Journey%20moves/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Moves/Special%20moves/</loc>
-         <lastmod>2023-07-22</lastmod>
+         <lastmod>2023-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
