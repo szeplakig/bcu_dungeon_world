@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/General/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/The%20Barbarian/</loc>
          <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
@@ -131,6 +136,46 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Delver/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Drunken%20Master/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Explorer/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Hunter/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Walker%20in%20the%20Waste/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Character%20playbooks/Compendium%20playbooks/The%20Wendigo/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Followers/Follower%20moves/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Followers/General/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/GM%20Tools/Fronts/</loc>
          <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
@@ -162,6 +207,11 @@
     </url>
     <url>
          <loc>https://hetyey-b.github.io/bcu_dungeon_world/Items/Weapons/Fire%20lance/</loc>
+         <lastmod>2023-07-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hetyey-b.github.io/bcu_dungeon_world/Monsters/Monster%20maker/</loc>
          <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
