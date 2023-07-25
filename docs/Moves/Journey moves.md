@@ -96,3 +96,11 @@ When you prepare and distribute food for the party, roll +WIS: on a 10+, choose 
 * 1d4 rations are lost due to spoilage or over-consumption
 * Someone gets food poisoning and becomes shaky and sick
 * A nearby Danger is attracted by food
+
+### Discoveries & Dangers
+
+Central to travel and exploration in a world of fantasy adventure are the things that make that world both fantastical and full of adventure. These encounters are broken into two categories: Discoveries and Dangers, and may come into play as a result of various moves, or when introduced at the GM’s discretion.
+
+A Discovery is anything the party finds that is interesting, but not actively dangerous. It might be something beneficial, like a steading or freshwater spring; something that begs investigation, like an overgrown ruin; or an impediment, like a bog or chasm.
+
+A Danger is anything which, if left unchecked, may be harmful. Traps and monsters are two common types of Dangers. A Danger encountered in the course of a journey may be incidental, or it may be a hint of something larger.

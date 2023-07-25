@@ -15,3 +15,16 @@ Gargantuan in size, it can break  buildings as well. Attacks with tentacles, and
 * It can also be used as a very metal mount
 * Could be used as burrowing troop transport for undead, like that thing in Starcraft 2 by the zergs for extra cool city invasion by undead
 * Maybe it is controlled by a MacGuffin. Imagine a dungeon, where the creator was killed in a random lashing out by the Crawling Apocalypse's remaining personality. Now there is a MacGuffin in the hands of a corpse somewhere in the dungeon, and a quite angry, not controlled Crawling Apocalypse roaming around
+
+## Stats
+
+* 24 HP
+* d12+8 dmg
+* Tags: Huge, Reach, Messy, Forceful, Terrifying
+* Attack: Vicious, Keeps enemies at bay, Slicing
+* Defense: 3 armor
+* Features: Great strength
+* Extra: Ancient, More then mere biology
+* Custom moves:
+  * Can burrow and move in sand as if swimming in water
+  * Creatures can be carried in it's hollowed out cavities, but no air in there, if it's burrowing (mainly for undead)

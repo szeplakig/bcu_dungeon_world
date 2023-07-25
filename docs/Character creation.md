@@ -1,6 +1,6 @@
 ## 1) Choose a playbook
 
-Look over the [Character playbooks](Character%20playbooks.md) and choose one. It is recommended that there are no duplicates in the party.
+Look over the [Analog Games/TTRPGs/Games/BCU Dungeon World/Character playbooks/General](Character%20playbooks/General.md) and choose one. It is recommended that there are no duplicates in the party.
 
 ## 2) Choose a species
 
