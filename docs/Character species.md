@@ -22,11 +22,11 @@ Where are you? We are gone now, you know this. The time of the Elves has passed.
 
 When the other elves sailed across the sea, they left you a powerful weapon or item. It is one of the last known elvish artifacts. Work with the GM to create this item (it should have above average stats or possibly even magical properties), then name it.
 
-## Tusker
+## Orc
 
-It is not wise to underestimate a tusker. Behind our calm demeanor is an intensity. Look deeply and you will see, as if we were sitting by firelight, a dancing flame of fury reflected in our eyes. To awaken a tusker’s temper is to beckon unto death.
+It is not wise to underestimate an orc. Behind our calm demeanor is an intensity. Look deeply and you will see, as if we were sitting by firelight, a dancing flame of fury reflected in our eyes. To awaken an orc’s temper is to beckon unto death.
 
-### Special move: Berserker tusker
+### Special move: Berserker orc
 
 When you’re below 10 HP, you can choose one damage die to reroll per attack
 
@@ -69,7 +69,8 @@ When you construct a trap, roll. If you have...
 * ...the appropriate materials, take +1
 * ...help from others, take +1
 * ...constructed it slowly and safely, take +1
-  On 10+, it works flawlessly. On a 7-9, it works! Sort of...
+
+On 10+, it works flawlessly. On a 7-9, it works! Sort of...
 
 ## Firbolg
 

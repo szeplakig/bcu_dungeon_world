@@ -99,7 +99,7 @@ Your connection to the wilds runs deeper than even you realized. When you die, t
 
 And finally, the area is suddenly populated with every type of creature or elemental whose form you have ever taken, the strongest of which will spawn right where you fell. You may be gone, but your mark on the world has been made.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2–5, choose from these moves.*
 
@@ -146,6 +146,8 @@ When you call on the primal spirits of fire, water, earth or air to perform a ta
 ### Balance
 
 When you deal damage, take 1 balance. When you touch someone and channel the spirits of life you may spend balance. For each balance spent, heal 1d4 HP. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 

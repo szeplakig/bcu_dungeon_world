@@ -112,7 +112,7 @@ It can’t end here, not like this! It was just getting to the good part! When y
 
 While you have the spotlight, no one under the GM’s control will take action - they are spellbound by your performance and will only act in response to another player attacking them directly. When your performance is finished, take a bow, for your time is up.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves*
 
@@ -156,6 +156,8 @@ Get one move from another class. Treat your level as one lower for choosing the 
 ### Multiclass Initiate
 
 Get one move from another class. Treat your level as one lower for choosing the move. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 

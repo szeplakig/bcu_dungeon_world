@@ -110,7 +110,7 @@ You knew this time would come, that your body could not last forever. As for you
 
 Work with the GM to create a powerful magic item. It could be an amulet, or spear, or any type of object. Its magical effects should be related to what you desired or stood for in life. Let this be your heirloom, Shaman, your spirit’s endowment to future generations.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -153,6 +153,8 @@ Your Spirit Pact allows for 1 additional Worldly Spirit Totem, but it must be gi
 ### Vision Quest
 
 When you spend the night alone in nature and consume a vision enhancing substance (such as ghostroot or dreamcap), the spirits will offer you guidance. Tell them something that troubles you. They will do their best to bestow wisdom. Take +1 Forward when acting on the problem. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 

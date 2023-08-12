@@ -1,8 +1,12 @@
 When you wake up after a bender with no idea where you are or how you got there, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Drink Like A Demon
 
 When you take a swig of an alcoholic drink, roll +Con. On a 10+, you now have 3-drunkenness. On a 7-9, you have 2-drunkenness. You may reduce your drunkenness by one at any time to heal yourself of 1d4 damage.
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

@@ -83,7 +83,7 @@ There is that tranquil moment, before death, where everything slows to a crawl. 
 
 When your time is up, only a moment has passed for everyone else, and the results of your actions all take effect at once. After one last line or a bellowing laugh or both, you die.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2–5, choose from these moves.*
 
@@ -134,6 +134,8 @@ When you discern realities add "What here is weak or vulnerable?" to the list of
 ### On the Move
 
 When you defy a danger caused by movement (maybe falling off a narrow bridge or rushing past an armed guard) take +1.
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 

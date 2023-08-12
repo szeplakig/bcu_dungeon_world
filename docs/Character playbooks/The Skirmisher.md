@@ -124,7 +124,7 @@ When you die, you see one last opportunity for a strike before the life drains f
 
 If your Fulcrum still lives, they can deal their maximum damage to the same target.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -174,6 +174,8 @@ When you attempt to escape from an enemy’s grapple or movement hindering attac
 ### Multiclass Dabbler
 
 Get one move from another class (treat your level as one lower when choosing).
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 

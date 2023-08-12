@@ -123,7 +123,7 @@ Work with the GM to reveal this master plot. The plan should give your allies a 
 
 Rest in peace, Battlemaster, knowing even now in death, the goals you had in life will soon be achieved.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -171,7 +171,9 @@ Get one move from another class (excluding Called Shot and Backstab). Treat your
 
 When you kill an enemy, you may immediately Change Tactics for free.
 
-When you gain a level from 6-10, choose from these or the level 2-5 moves.
+## Advanced moves (6-10)
+
+*When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 
 ### Lethal Gambit
 

@@ -121,7 +121,7 @@ When you die, the earth begins to tremble. Hands of bone and decaying flesh burs
 
 The ones who caused your death will be torn apart. Your army will exist until your vengeance is achieved or every last corpse is destroyed. Let them know true peril, Necromancer, show them once and for all.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -168,6 +168,8 @@ When you scour a graveyard for new material, you may always ask the GM: What dea
 * ...was most powerful in life?
 * ...had the richest burial?
 * ...lived the most noteworthy life?
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 

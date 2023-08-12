@@ -1,5 +1,7 @@
 When you reach the lowest level of at least two different dungeons, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Sniff the Air
 
 When you use your senses to assess a subterranean area, ask the GM 2 questions from the list below.
@@ -9,6 +11,8 @@ When you use your senses to assess a subterranean area, ask the GM 2 questions f
 * Which way leads to the nearest exit?
 * Which way will take me deeper?
 * What lies hidden here?
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

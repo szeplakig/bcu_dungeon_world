@@ -1,5 +1,7 @@
 When you enlist the support of a powerful patron to reward your forays into the unknown, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Patron
 
 You have the support of a powerful individual or group, who will reward you for the delivery of certain things gathered from foreign climes. Choose 1 patron, and the thing they want:
@@ -11,6 +13,8 @@ You have the support of a powerful individual or group, who will reward you for 
 * Magnate: evidence of natural resources and their location
 * Wizard: magical items, or evidence and locations of magical places
   Your patron will provide you with supplies for any expedition you undertake on their behalf, within reason. When you deliver the desired news or goods to your patron, you are compensated. Negotiate your compensation with the GM, based on the nature of your patron.
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

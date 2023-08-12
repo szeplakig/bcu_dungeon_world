@@ -1,8 +1,12 @@
 When you willingly partake on the flesh of your own kind on the winter solstice, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Of Ice and Hunger
 
 You can now take the form of a Wendigo; a horrific amalgamation of stag, bear, wolf and hunger. In this form you have the tags Forceful, Messy, Terrifying and ferocious claws (close, piercing +1). However from this point onwards whenever you are asked to mark off a ration, you must instead consume the flesh of a sentient creature. This is the only way you can gain sustenance in your new twisted existence.
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

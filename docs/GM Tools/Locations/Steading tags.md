@@ -2,29 +2,38 @@ When generating a steading, you can use the [Location Builder](Location%20Builde
 
 ## Prosperity
 
-* *Dirt:* Nothing for sale, nobody has more then they need, (if that) unskilled labour is cheap.
-* *Poor:* Only the bare necessities for sale. Weapons are scarce unless the steading is heavily defended or militant. Unskilled labour is readily available.
-* *Moderate:* Most mundane items are available. Some types of skilled labourers.
-* *Wealthy:* Any mundane item can be found for sale. Most kinds of skilled labourers can be found, but demand for their time is usually high.
-* *Rich:* Mundane items and more, if you know where to find them. Specialist labour is available, but at high prices.
+|n|Description|
+|-|-----------|
+|1|*Dirt:* Nothing for sale, nobody has more then they need, (if that) unskilled labour is cheap.|
+|2|*Poor:* Only the bare necessities for sale. Weapons are scarce unless the steading is heavily defended or militant. Unskilled labour is readily available.|
+|3|*Moderate:* Most mundane items are available. Some types of skilled labourers.|
+|4|*Wealthy:* Any mundane item can be found for sale. Most kinds of skilled labourers can be found, but demand for their time is usually high.|
+|5|*Rich:* Mundane items and more, if you know where to find them. Specialist labour is available, but at high prices.|
+|^prosperity||
 
 ## Population
 
-* *Exodus:* The steading has lost its population and is on the verge of collapse.
-* *Shrinking:* The population is less than it once was. Buildings stand empty.
-* *Steady:* The population is in line with the current size of the steading. Some slow growth.
-* *Growing:* More people than there are buildings.
-* *Booming:* Resources are stretched thin trying to keep up with the number of people.
+|n|Description|
+|-|-----------|
+|1|*Exodus:* The steading has lost its population and is on the verge of collapse.|
+|2|*Shrinking:* The population is less than it once was. Buildings stand empty.|
+|3|*Steady:* The population is in line with the current size of the steading. Some slow growth.|
+|4|*Growing:* More people than there are buildings.|
+|5|*Booming:* Resources are stretched thin trying to keep up with the number of people.|
+|^population||
 
-## Defenses
+## Defences
 
-* *None:* Clubs, torches, farming tools.
-* *Militia:* There are able-bodied men and women with worn weapons ready to be called, but no standing force.
-* *Watch:* There are a few watchers posted who look out for trouble and settle small problems, but their main role is to summon the militia.
-* *Guard:* There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.
-* *Garrison:* There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.
-* *Battalion:* As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defenses as well. 
-* *Legion:* The steading is defended by thousands of armed soldiers (or equivalent). The steading’s defenses are intimidating.
+|n|Description|
+|-|-----------|
+|1|*None:* Clubs, torches, farming tools.|
+|2|*Militia:* There are able-bodied men and women with worn weapons ready to be called, but no standing force.|
+|3|*Watch:* There are a few watchers posted who look out for trouble and settle small problems, but their main role is to summon the militia.|
+|4|*Guard:* There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.|
+|5|*Garrison:* There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.|
+|6|*Battalion:* As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defences as well.|
+|7|*Legion:* The steading is defended by thousands of armed soldiers (or equivalent). The steading’s defences are intimidating.|
+|^defences||
 
 ## Other Tags
 

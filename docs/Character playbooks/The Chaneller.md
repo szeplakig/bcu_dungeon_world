@@ -120,7 +120,7 @@ When you die, the dam breaks. What’s left of your body explodes as raw magic p
 
 The area around this location will be permanently irradiated with your magic and quickly show signs of your primary element. Truly, Channeler, you have left your mark on the world.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -164,6 +164,8 @@ Your Primary Element engulfs the weapons you wield. When you Hack and Slash and 
 ### Reabsorb Elemental
 
 When you reabsorb an unleashed Elemental, roll +CON. ✴On a 10+, the Elemental is sucked back through your Conduit. ✴On a 7-9, you absorb it, but your body suffers, take 1d4 damage (ignores armor).
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 

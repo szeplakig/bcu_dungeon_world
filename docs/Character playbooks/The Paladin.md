@@ -95,7 +95,7 @@ You have proven yourself such a valiant champion of your beliefs that not even d
 
 This spirit comes with 6 hold for the Defend move, deals 10 damage with any attack it makes, grants +1 to any move it helps out on, and has enough power to restore 3d6 HP or remove 1 disease or debility from any one person. Your spirit will stick around long enough to see the trouble through before fading away, and only those who knew you in life will be able to see this spirit.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2–5, choose from these moves.*
 
@@ -138,6 +138,8 @@ Take +1 to order hirelings.
 ### Hospitaller
 
 When you heal an ally, you heal +1d8 damage.
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 

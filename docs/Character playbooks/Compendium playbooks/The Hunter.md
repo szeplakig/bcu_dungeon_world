@@ -1,8 +1,12 @@
 When you live for a week off only rations you have hunted yourself, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Track
 
 When you encounter tracks or spoor and take time to examine the scene, the GM will describe the sign, and tell you how long ago it was made. Then, you may ask the GM 2 questions about it, within reason.
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

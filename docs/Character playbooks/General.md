@@ -44,5 +44,5 @@ Some Compendium playbooks have Death Moves as well. These work like an Alternati
 * [The Delver](Compendium%20playbooks/The%20Delver.md) - reach the lowest level of at least two different dungeons
 * [The Drunken Master](Compendium%20playbooks/The%20Drunken%20Master.md) - wake up after a bender with no idea where you are or how you got there
 * [The Explorer](Compendium%20playbooks/The%20Explorer.md) - enlist the support of a powerful patron to reward your forays into the unknown
-* [The Hunter](Compendium%20playbooks/The%20Hunter.md) - live for a week off only rations you have hunted yourself
+* [Analog Games/TTRPGs/Games/BCU Dungeon World/Character playbooks/Compendium playbooks/The Hunter](Compendium%20playbooks/The%20Hunter.md) - live for a week off only rations you have hunted yourself
 * [The Wendigo](Compendium%20playbooks/The%20Wendigo.md) - willingly partake on the flesh of your own kind on the winter solstice

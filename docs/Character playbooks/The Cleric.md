@@ -98,7 +98,7 @@ None are closer to your god than you, and they will personally visit you in your
 
 If you request vengeance, the ground your god walks will forever be cursed and every attack it makes will scar the land. If you request anything else, whatever your god touches while completing the task will be eternally consecrated. In either case, your grave becomes a holy place, and any petitioner who visits your grave with an appropriate offering can speak to your god directly.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2–5, choose from these moves.*
 
@@ -148,6 +148,8 @@ When you wear no armor or shield you get 2 armor.
 ### Devoted Healer
 
 When you heal someone else of damage, add your level to the amount of damage healed. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6–10, choose from these moves or the level 2–5 moves.*
 

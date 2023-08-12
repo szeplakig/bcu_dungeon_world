@@ -1,10 +1,14 @@
 When you almost perish from thirst or heat, but make a deal for your life with a deity of the waste, the next time you level up you may choose to gain this move:
 
+## Starting move
+
 ### Child of the Waste
 
 You are adapted to life in the desert. Any time you roll to resist the effects of hot weather, treat a roll of 7-9 as 10+, and a roll of 6- as 7-9. You only need to consume half as much water as a regular human.
 
 You also take +1 to Forage in deserts or wastelands, as long as they are not completely barren.
+
+## Advanced moves
 
 *When you have taken the above move, you may take any of the following moves instead of a move from your class when you level up:*
 

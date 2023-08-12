@@ -104,7 +104,7 @@ Death is an expected part of the natural world. You had accepted the inevitabili
 
 This trap should give your allies a major boon or advantage, or set up your enemies for destruction, or set major world events in motion. You may have had to become prey in the end, but you were always the hunter.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *You may take this move only if it is your first advancement.*
 
@@ -151,6 +151,8 @@ Dedicate yourself to a deity (name a new one or choose one that’s already been
 ### A Safe Place
 
 When you set the watch for the night, everyone takes +1 to take watch. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 

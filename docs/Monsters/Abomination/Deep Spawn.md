@@ -1,4 +1,16 @@
-[Cool artwork](https://www.artstation.com/artwork/w6zL96)
+---
+hp: null
+type: abomination
+number: solitary
+dmg: null
+dw_tags: []
+attack: []
+defense: null
+extra: []
+custom_moves: null
+---
+
+![Pasted image 20230801112201.png](../../Images/Pasted%20image%2020230801112201.png)
 
 ## Description
 

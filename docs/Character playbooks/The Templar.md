@@ -110,7 +110,7 @@ When you die, your eyes boil and burn away as holy light pours out of you. Every
 
 Embrace serenity, Templar, you have left this putrid world one step closer to absolution.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -157,6 +157,8 @@ When you declare someone deserves punishment, spend 1 Wrath. The next time they 
 ### Holy Vengeance
 
 When you kill an enemy that has done you harm, you gain 1 Wrath
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these or the level 2-5 moves.*
 

@@ -94,7 +94,7 @@ You’ve known this spell for ages - the ultimate spell, which can rewrite reali
 
 When you die, you cast your final, ultimate spell: Wish. Shout out your wish, but make it quick - you are dying, you know. The last thing you see before your body disintegrates into dust is reality twisting and thrashing to make your wish come true.
 
-## Advanced moves
+## Advanced moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level.*
 
@@ -140,6 +140,8 @@ When you attempt to counter an arcane spell that will otherwise affect you, stak
 ### Quick Study
 
 When you see the effects of an arcane spell, ask the GM the name of the spell and its effects. You take +1 when acting on the answers.
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 

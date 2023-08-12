@@ -114,7 +114,7 @@ There it is to your side; your best friend, your life, your weapon. Your weapon,
 
 Its magical effects should be related to what you desired or stood for in life; Work with the GM to decide its power. This Legendary Weapon will be forever bloodstained; within lies your sleeping soul, waiting to be awakened.
 
-## Advanced Moves
+## Advanced Moves (2-5)
 
 *When you gain a level from 2-5, choose from these moves.*
 
@@ -157,6 +157,8 @@ You gain +1 armor.
 ### Blacksmith
 
 When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon. 
+
+## Advanced moves (6-10)
 
 *When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
 

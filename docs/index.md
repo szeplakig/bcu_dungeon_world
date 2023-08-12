@@ -1,5 +1,10 @@
 # BCU Dungeon World
 
+## Update: 2023-08-12
+- New compendium playbook:
+    - The Knight of the Forever Flame
+- Better formatting of Advanced moves
+
 ## Update: 2023-07-25
 ### New mechanics:
 - Compendium playbooks: "Prestige" playbooks your character can take after fulfilling some in story requirement
