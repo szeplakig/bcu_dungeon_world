@@ -51,6 +51,7 @@ _Note: Ingest can be swallow as a solution, absorb through the skin of your hand
 
 
 When you actively "burn" (akin to burning calories) an ingested metal to utilize its powers, using up 1 (or more/less) hold of that specific:
+
  * **On a 10+**, the metal's effects are strong and controlled, without unexpected issues.
  * **On a 7-9**, you use the metal effectively but also face its negative effects.
  * **On a miss**, the metal's effects are unpredictable. The GM decides the outcome, which might include increased negative effects or diminished positive ones.
@@ -120,7 +121,6 @@ Your Load is 9+STR. You carry dungeon rations (5 uses, 1 weight).
 
 Choose your weapon:
 
-
  * Short Sword (close, 1 weight)
  * Metal-tipped Staff (close, two-handed, 1 weight)
 
@@ -132,7 +132,6 @@ Choose two of the basic metals, these will be the two you can use from the start
 
 
 Choose one:
-
 
  * Leather armor (1 armor, 1 weight)
  * 3 healing potions and adventuring gear (5 uses, 1 weight)
@@ -198,29 +197,37 @@ _Note: Your allies can use your current metal holds until they run out. They hav
 
 
 ### Journeyman Allomancer
+
  * **Description**: With continued practice and understanding, you can now harness the powers of additional metals.
  * **Effect**: You can recognize, prepare, ingest, and burn up to 4 different Allomantic metals.
 
 
 ### Adept Allomancer
+
 _Requires: Journeyman Allomancer_
+
  * **Description**: Your expertise in Allomancy grows, and so does your repertoire of metals.
  * **Effect**: You can recognize, prepare, ingest, and burn up to 6 different Allomantic metals one of which can be an Advanced Metal. 
 
 
 ### Harmonic Initiate
+
  * **Description**: You've started to tap into the deeper intricacies of Allomancy, allowing you to burn two metals simultaneously.
  * **Effect**: You can burn up to 2 metals at the same time. When you do, both metals' effects apply. Roll for each metal separately, taking into account any successes, failures, or side effects. This ability requires focus and energy.
 
 
 ### Harmonic Adept
+
 _Requires: Harmonic Initiate_
+
  * **Description**: Your proficiency has grown, and now you can harness the power of three metals at once, intertwining their effects for more complex results.
  * **Effect**: You can burn up to 3 metals simultaneously. As your mastery grows, so does the complexity and risk. Each burn still requires its own roll, and the chances of negative side effects are amplified.
 
 
 ### Flare Metal
+
 When you intensify the burn of your metal to boost its effects, roll+CON to determine the outcome.
+
  * **On a 10+**, the power is enhanced without drawbacks.
  * **On a 7-9**, choose 1:
 	 * **Wastage**: The power is enhanced, but the metal burns out twice as fast (use 2 holds per use)
@@ -229,18 +236,21 @@ When you intensify the burn of your metal to boost its effects, roll+CON to dete
 
 
 ### Allomantic Leap
+
  * **Description**: You can use Iron or Steel to Push or Pull (respectively) against heavy or static objects, defying gravity momentarily.
  * **Cost**: Burn 1 hold of Iron or Steel.
  * **Effect**: 
 
 
 ### Iron Anchor
+
  * **Description**: By burning Iron, you can ground yourself firmly, becoming immovable for a short duration.
  * **Cost**: Burn 1 hold of Iron.
  * **Effect**: For a brief moment, you cannot be moved, knocked back, or forced out of your position, no matter the strength of the external force.
 
 
 ### Emotion Insight
+
  * **Description**: Gain deeper insights into the emotions and intentions of those around you.
  * **Cost**: Burn 1 hold of Zinc or Brass.
  * **Effect**: You can ask a specific question about the mental state (emotions, intentions, thoughts) of a person you can cross your eyes with. Examples:
@@ -250,30 +260,35 @@ When you intensify the burn of your metal to boost its effects, roll+CON to dete
 
 
 ### Steel Whirlwind
+
  * **Description**: A quick burst of Steel pushes everything metallic away from you, creating a zone of defense or clearing an area.
  * **Cost**: Burn 1 hold of Steel.
  * **Effect**: Anything metallic within a short radius is quickly pushed away. This can disarm opponents, clear obstacles, or create a momentary shield against metallic threats.
 
 
 ### Pewter Arm
+
  * **Description**: When you channel the power of Pewter, your physical strength and prowess are amplified, allowing you to perform feats of might beyond the norm.
  * **Cost**: Burn 1 hold of Pewter.
  * **Effect**: Add +1 forward to any strength-based action. If used in combat, you can also knock an opponent back or off-balance with the sheer force of your attack.
 
 
 ### Zinc Rage
+
  * **Description**: Amplify the emotions of those around you, sowing chaos or strengthening allies.
  * **Cost**: Burn 1 hold of Zinc.
  * **Effect**: Enemies become more aggressive and might attack without strategy. Allies gain a boost in morale and get +1 forward on their next action.
 
 
 ### Copper Shield
+
  * **Description**: Create an area where Allomantic pulses are muted, protecting against detection or manipulation.
  * **Cost**: Burn 1 hold of Copper.
  * **Effect**: For a short duration, Allomantic actions within the shielded zone are undetectable from outside. Those inside are also protected from emotional Allomancy.
 
 
 ### Bronze Finesse
+
  * **Description**: Refine your usage of Bronze to detect specific magical traces or energies.
  * **Cost**: Burn 1 hold of Bronze.
  * **Effect**: Focus on a particular type of magic or energy, increasing your chances of discovering its presence or origin.
@@ -291,28 +306,39 @@ _Requires: Adept Allomancer_
 
 
 ### Grandmaster Allomancer
+
 _Requires: Master Allomancer_
+
  * **Description**: Legends are told about Allomancers of your caliber. You've unlocked almost all secrets of the metals.
  * **Effect**: You can recognize, prepare, ingest, and burn to 10 different Allomantic metals. Four of which can be Advanced Metals.
 
 
 ### Harmonic Maestro
+
 _Requires: Harmonic Adept_
+
  * **Description**: You stand among the elite Allomancers, with the rare ability to simultaneously control and harmonize the effects of four metals.
  * **Effect**: At the peak of your skill, you can burn 3 metals at once, weaving their powers into a masterful display of Allomantic prowess. The risks are considerable, but the potential benefits are immense.
 
 
 ### Mistborn
+
 _Requires: Grandmaster Allomancer_
+
 _Requires: Harmonic Adept_
+
  * **Description**: As a Mistborn, you are among the legends of the Allomantic world, able to harness the power of every known metal and some say, even beyond.
  * **Effect**: You can recognize, prepare, ingest, and burn every known Allomantic metal. Also, you can burn 5 metals at once.
 
 
 ### Advanced Prepare Metal
+
 In your continued experiments with Allomantic preparations, you've discovered a technique to yield more from the same amount of resources, but the process is trickier and the stakes are higher.
+
 Use up 2 times the metal cost of coins + 4 coins worth of chemicals to create 2 x INT + 2 uses of Allomantic metal.
+
 Roll+WIS to determine the outcome.
+
  * **On a 12+**, the metal is flawlessly prepared, producing even more than expected. Gain an additional use.
  * **On a 10-11**, the metal is perfectly prepared.
  * **On a 7-9**, you prepare the metal but with complications, choose from the following:
@@ -323,12 +349,16 @@ Roll+WIS to determine the outcome.
 
 
 ### Allomantic Intuition
+
 Sense imminent danger related to metal or Allomancy.
 
 
 ### Metallurgical Mastery
+
 _Requires: Master Allomancer_
+
 Your insatiable curiosity and understanding of Allomancy drive you to experiment and discover unknown metallic powers.
+
 Once a year, when you dedicate significant time and resources to uncover a new metal or alloy and its Allomantic properties, roll+INT.
 
  * **On a 12+**, you discover a new metal or alloy, understanding its properties perfectly. Describe its effects, and add it to your repertoire. It remains rare, and acquiring it might be an adventure on its own.
@@ -341,8 +371,12 @@ _Note: The discovery of new metals or alloys can significantly impact the narrat
 
 
 ### Raw Allomancy
+
 _Requires: Grandmaster Allomancer_
-The temptation to ingest and burn unprocessed metals, driven by either audacity or necessity, is a testament to your boldness. Tapping into the raw form of Allomancy, you engage with its unpredictable, wild, and potent nature. When you choose to ingest and subsequently burn an unrefined metal, make a roll+WIS.
+
+The temptation to ingest and burn unprocessed metals, driven by either audacity or necessity, is a testament to your boldness.
+
+Tapping into the raw form of Allomancy, you engage with its unpredictable, wild, and potent nature. When you choose to ingest and subsequently burn an unrefined metal, make a roll+WIS.
 
 
  * **On a 12+**, you tap into the raw power of the metal. There's a hint of wildness to the power, making it harder to control.
@@ -350,7 +384,7 @@ The temptation to ingest and burn unprocessed metals, driven by either audacity 
      * The effect is potent but short-lived, lasting half the usual duration.
      * You feel a significant drain, leaving you weakened or fatigued.
      * The power is unwieldy, and there's a chance it might go slightly awry.
--* * On a 7-9**, the raw metal's power is unpredictable. The GM will give you 1-3 options, each with a cost, complication, or unwanted side effect. Choose one to manifest.
+ * * On a 7-9**, the raw metal's power is unpredictable. The GM will give you 1-3 options, each with a cost, complication, or unwanted side effect. Choose one to manifest.
  * **On a miss**, the metal reacts violently within you. Suffer harm from metal poisoning, lose access to your Allomantic powers temporarily, or face other severe consequences.
 
 
@@ -358,45 +392,53 @@ _Note: Using unprocessed metals can be a game-changing decision. Collaborate wit
 
 
 ### Feathered Step
+
  * **Description**: By delicately pushing against the floor or ground, you can lighten your steps to the point they're almost silent, making you move like a whisper.
  * **Cost**: Burn 1 hold of Steel.
  * **Effect**: For a short duration, your steps are near-silent.
 
 ### Ghostly Hide
+
  * **Description**: Use a rare technique to become near invisible, letting light partially pass through you. Perfect for stealth or evasion.
  * **Cost**: Burn 1 hold of Electrum, 1 hold of Bronze and 1 hold of Zinc at the same time.
  * **Effect**: For a brief period, you become translucent.
 
 ### Duralumin Burst
+
  * **Description**: Burn Duralumin to drastically enhance the effect of another burned metal, but the metal's supply is quickly exhausted.
  * **Cost**: Burn 1 hold of Duralumin and all holds of another metal (at least 3).
  * **Effect**: The next action using the other metal has its effect magnified considerably, but all reserves of that metal are consumed.
 
 ### Metalborn Weaponry
+
  * **Description**: Infuse a weapon with Allomantic energy, enhancing its potency.
  * **Cost**: Burn 1 hold of any metal.
  * **Effect**: For a short duration, the weapon gains a +1 bonus to damage and has an additional effect based on the burned metal.
 
 
 ### Pewterclad Armor
+
  * **Description**: Strengthen your armor using Pewter, making it near impervious.
  * **Cost**: Spend 1 hold of Pewter.
  * **Effect**: For a short duration, the armor gains a +2 bonus against damage.
 
 
 ### Brass Calm
+
  * **Description**: Use Brass to calm emotions, even inducing sleep in those affected.
  * **Cost**: Spend 1 hold of Brass.
  * **Effect**: Those affected feel a sudden wave of tranquility. They might also fall asleep if they fail a resistance check.
 
 
 ### Enhanced Zinc Rage
+
  * **Description**: Ignite intense emotions in a targeted individual, causing them to act impulsively.
  * **Cost**: Spend 2 holds of Zinc.
  * **Effect**: The targeted individual becomes extremely emotional and might act without thinking, which could lead to mistakes or rash decisions.
 
 
 ## Basic Metals
+
 Basic metals cost 1 coin each.
 
 
@@ -404,6 +446,7 @@ Basic metals cost 1 coin each.
 #### Use: Pull yourself towards something heavy, or pull something light towards you.
 #### Negative effect: Over-pulling causes you to crash into the target, taking harm.
 #### Possible uses:
+
  * Scaling walls by pulling yourself to metal fixtures.
  * Retrieving metal objects from a distance.
 
@@ -412,6 +455,7 @@ Basic metals cost 1 coin each.
 #### Use: Push yourself away from something heavy, or push something light away from you.
 #### Negative effect: Over-pushing can cause strain, potentially spraining or injuring yourself.
 #### Possible uses:
+
  * Rapidly moving backward for strategic positioning.
  * Repelling metal weapons or projectiles.
 
@@ -420,6 +464,7 @@ Basic metals cost 1 coin each.
 #### Use: Augment physical abilities, strength, speed, or endurance.
 #### Negative effect: Overexertion leads to exhaustion, requires rest, or risks harm.
 #### Possible uses:
+
  * Fighting against multiple enemies.
  * Running at high speeds or lifting heavy objects.
 
@@ -428,6 +473,7 @@ Basic metals cost 1 coin each.
 #### Use: Enhance one of your senses to superhuman levels.
 #### Negative effect: Overwhelms the enhanced sense, causing temporary blindness, deafness, etc.
 #### Possible uses:
+
  * Spotting distant objects or figures.
  * Hearing faint noises or whispers.
 
@@ -436,6 +482,7 @@ Basic metals cost 1 coin each.
 #### Use: Inflame another's emotions, making them more susceptible to your influence.
 #### Negative effect: The target's emotions become too volatile, making them unpredictable.
 #### Possible uses:
+
  * Intimidating an opponent.
  * Persuading someone to see your perspective.
 
@@ -444,6 +491,7 @@ Basic metals cost 1 coin each.
 #### Use: Soothe another's emotions, dulling their responses.
 #### Negative effect: The target becomes emotionally numb, potentially unresponsive.
 #### Possible uses:
+
  * Calming a panicking ally.
  * Making an opponent less aggressive.
 
@@ -452,6 +500,7 @@ Basic metals cost 1 coin each.
 #### Use: Absorb and dissipate ambient magical or mysterious energies, making it easier to resist or prevent spells and mysterious effects.
 #### Negative effect: Prolonged use can make you a "dead zone" for magic, meaning even beneficial spells might fail or be dispelled around you.
 #### Possible uses:
+
  * Neutralizing a trap that uses magical or mysterious energies.
  * Shielding yourself from a harmful spell.
  * Making it difficult for enemies to use magical effects while near you.
@@ -461,19 +510,22 @@ Basic metals cost 1 coin each.
 #### Use: Enhance perception to detect faint sources of magic or mystery, including weak enchantments, residues of spells, or low-level magical beings.
 #### Negative effect: The echoes can sometimes be misleading or too overwhelming, leading you astray or making you vulnerable to illusions.
 #### Possible uses:
+
  * Discovering the faint trace of a magical barrier or seal.
  * Identifying if an object has been touched by magic recently.
  * Sensing low-level magical creatures or entities.
 
 
 ## Advanced metals
-Basic metals cost 5 coin each.
+
+Basic metals cost 5 coins each.
 
 
 ### Gold
 #### Use: Harnessing Gold's power, you can rewind time on your own body to a healthier state. You don't remember events after that point, but your body returns to the state it was in a few moments ago.
 #### Negative effect: After using Gold, you're disoriented and have difficulty distinguishing between the present and the moment you reverted to.
 #### Possible uses:
+
  * Healing wounds sustained in recent combat.
  * Quickly recovering from poisons or other debilitating effects, if administered recently.
 
@@ -482,6 +534,7 @@ Basic metals cost 5 coin each.
 #### Use: Burn Electrum to bolster your body's natural resistances, making you temporarily immune to extreme environmental conditions and certain types of energy.
 #### Negative effect: Extended use can cause your body to become reliant on Electrum, leaving you more vulnerable to such effects once its influence fades.
 #### Possible uses:
+
  * Navigating through extreme temperatures (hot or cold) unscathed.
  * Safely traversing acidic or corrosive environments.
  * Absorbing or deflecting energy-based or necrotic attacks.
@@ -492,6 +545,7 @@ Basic metals cost 5 coin each.
 #### Use: Wipes out your Allomantic reserves, negating active effects.
 #### Negative effect: Leaves you vulnerable and without Allomantic defenses.
 #### Possible uses:
+
  * A last-ditch effort to avoid detection or negate a harmful Allomantic effect.
   
 
@@ -499,6 +553,7 @@ Basic metals cost 5 coin each.
 #### Use: Enhances the burn of another metal, giving a powerful but brief surge of that power.
 #### Negative effect: Drains the metal reserve completely, leaving you without that metal's powers.
 #### Possible uses:
+
  * A powerful, unexpected push or pull using Iron or Steel.
  * A heightened emotional influence using Zinc or Brass.
 
@@ -507,7 +562,8 @@ Basic metals cost 5 coin each.
 #### Use: Accelerates healing, mending wounds and recovering from injuries faster.
 #### Negative effect: Overuse may lead to feverish symptoms and weaken the immune system temporarily.
 #### Possible uses:
- * Recovering from injuries in the midst of battle.
+
+* Recovering from injuries in the midst of battle.
  * Assisting allies who are critically wounded.
 
 
@@ -515,6 +571,7 @@ Basic metals cost 5 coin each.
 #### Use: Enhance the physical abilities of an ally, giving them increased strength and speed.
 #### Negative effect: The ally becomes overconfident, potentially taking unnecessary risks.
 #### Possible uses:
+
  * Strengthening an ally in battle.
  * Helping a companion perform a feat of strength or agility.
 
@@ -523,6 +580,7 @@ Basic metals cost 5 coin each.
 #### Use: Weaken an opponent, making their movements sluggish and slow.
 #### Negative effect: If misapplied, can cause paralysis or extended incapacitation.
 #### Possible uses:
+
  * Slowing down a pursuer.
  * Reducing the threat of a powerful enemy in combat.
 
@@ -531,6 +589,6 @@ Basic metals cost 5 coin each.
 #### Use: Create a temporary shield around oneself, deflecting physical attacks.
 #### Negative effect: Overuse may cause disorientation or temporary blindness.
 #### Possible uses:
+
  * Protecting oneself from projectiles or melee attacks.
  * Blocking an unexpected assault.
-
