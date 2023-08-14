@@ -1,3 +1,4 @@
+* [The Allomancer](The%20Allomancer.md)
 * [The Barbarian](The%20Barbarian.md)
 * [The Bard](The%20Bard.md)
 * [The Battlemaster](The%20Battlemaster.md)
