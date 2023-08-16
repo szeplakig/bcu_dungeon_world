@@ -27,12 +27,12 @@ When you actively "burn" (akin to burning calories) an ingested metal to utilize
 
 You consume 1 use of a specific Allomantic metal or alloy and store it in your system, **Roll+CON**:
 
-- **On a 10+**, you gain 2 holds. Choose one of the following:
+- **On a 10+**: You gain 2 holds. Choose one of the following:
     - **Ready action**: You can burn one use immediately.
     - **Extension**: Extend the duration of a previously accessed metal by 2 holds.
     - **Safety first**: Prevent adverse effects from the metal. (you suffer the negative effect of the metal otherwise)
-- **On a 7-9**, you gain 2 holds and suffer the metal's negative effect.
-- **On a miss**, you suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
+- **On a 7-9**: You gain 2 holds and suffer the metal's negative effect.
+- **On a miss**: You suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
     - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover or suffer -1 ongoing until you do.
     - **Metal Burn**: The metal burns hotter than expected, causing discomfort or minor burns. Take 1 harm.
     - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
@@ -49,12 +49,12 @@ Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create IN
 
 **Roll+INT** to determine the outcome.
 
-- **On a 10+**, the metal is perfectly prepared.
-- **On a 7-9**, you prepare the metal but something happens. Choose from the following:
+- **On a 10+**: Yhe metal is perfectly prepared.
+- **On a 7-9**: You prepare the metal but something happens. Choose from the following:
     - **Weak draft**: You create a Weak Allomatic Metal batch. This means these powers are weaker.
     - **Accident**: You mess up during the process and hurt yourself but still manage to complete the batch. Take 1 harm.
     - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal.
-- **On a miss**: You've made a grave mistake in preparation; the GM will decide the consequences. Choose from the following:
+- **On a miss**: You've made a grave mistake in preparation. The GM will decide the consequences. Choose from the following:
     - **Nothing**: You have managed to leave the room before it filled up with toxic fumes.
     - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins equal to the initial cost.
     - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
@@ -171,9 +171,9 @@ _Replaces: Harmonic Initiate_
 
 Through practice and mastery of your Allomantic abilities, you have learned to rapidly ingest and utilize metals with finesse. When you consume a specific Allomantic metal or alloy, you may choose to make it a "bonus action", allowing you to burn the metal immediately. When you ingest a metal this way, **Roll+CON**:
 
-- **On a 10+**, you gain 3 holds. You can choose to immediately burn one use and you do not suffer the negative effects.
-- **On a 7-9**, you gain 3 holds. You can choose to immediately burn one use, but you suffer the negative effect of the metal.
-- **On a miss**, you gain 2 holds. You suffer the negative effects of the metal, you suffer the negative effect of the metal and choose one from the following:
+- **On a 10+**: You gain 3 holds. You can choose to immediately burn one use and you do not suffer the negative effects.
+- **On a 7-9**: You gain 3 holds. You can choose to immediately burn one use, but you suffer the negative effect of the metal.
+- **On a miss**: You gain 2 holds. You suffer the negative effects of the metal, you suffer the negative effect of the metal and choose one from the following:
     - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover, or suffer -1 ongoing until you do.
     - **Metal Burn**: The metal burns hotter than expected, causing discomfort or minor burns. Take 1 harm.
     - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
@@ -184,11 +184,11 @@ Through practice and mastery of your Allomantic abilities, you have learned to r
 
 When you intensify the burn of your metal to boost its effects, roll+CON to determine the outcome.
 
-- **On a 10+**, the power is enhanced without drawbacks.
-- **On a 7-9**, choose 1:
+- **On a 10+**: Yhe power is enhanced without drawbacks.
+- **On a 7-9**: You choose 1:
     - **Wastage**: The power is enhanced, but the metal burns out twice as fast (use 2 holds per use)
     - **Accident**: Suffer 1 harm from the strain (eg.: burns, sensory loss, heart problems or anything else appropriate.)
-- **On a miss**, you lose all holds for this metal but the negative effects remain (or start).
+- **On a miss**: You lose all holds for this metal but the negative effects remain (or start).
 
 ### Allomantic Leap
 
@@ -281,13 +281,16 @@ Use up 2 times the metal cost of coins + 4 coins worth of chemicals to create 2 
 
 Roll+WIS to determine the outcome.
 
-- **On a 12+**, the metal is flawlessly prepared, producing even more than expected. Gain an additional use.
-- **On a 10-11**, the metal is perfectly prepared.
-- **On a 7-9**, you prepare the metal but with complications, choose from the following:
-    - **Volatile batch**: The metal's effects are unpredictable. They might be stronger or weaker, decided by the GM during use.
-    - **Draining process**: The intense concentration required leaves you exhausted. Take -1 forward to your next roll.
-    - **Resource intensive**: You've consumed extra resources in the process. Use up additional coins worth of chemicals.
-- **On a miss**, the preparation goes horribly wrong. The GM will decide the severe consequences, which might include loss of materials, accidental harm, or even dangerous byproducts.
+- **On a 12+**: The metal is flawlessly prepared, producing even more than expected. Gain an additional use.
+- **On a 10-11**: The metal is perfectly prepared.
+- **On a 7-9**: You prepare the metal but with complications, choose from the following:
+    - **Draining process**: The intense concentration required leaves you exhausted. Take -1 forward until your next roll.
+    - **Resource intensive**: You've consumed extra resources in the process. Use up 4 more coins worth of chemicals.
+- **On a miss**: You've made a grave mistake in preparation. The GM will decide the consequences. Choose from the following:
+    - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins **double** to the initial cost.
+    - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
+    - **Explosion**: Your preparation goes horribly wrong, resulting in a small explosion. Take 1 harm (burn) and you are thrown into a chaotic situation.
+    - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You are unable to use your Allomantic powers until you spend a full day recovering.
 
 ### Allomantic Intuition
 
@@ -301,10 +304,10 @@ Your insatiable curiosity and understanding of Allomancy drive you to experiment
 
 Once a year, when you dedicate significant time and resources to uncover a new metal or alloy and its Allomantic properties, roll+INT.
 
-- **On a 12+**, you discover a new metal or alloy, understanding its properties perfectly. Describe its effects, and add it to your repertoire. It remains rare, and acquiring it might be an adventure on its own.
-- **On a 10-11**, you discover a new metal or alloy, but its full potential remains shrouded. Gain a general sense of its power, but specific applications are still uncertain. More research or practical application will be required to fully harness it.
-- **On a 7-9**, your experiments lead to unstable results. You get a hint of a new potential power, but using it is risky. Every time you use this metal or alloy, there's a significant chance of unexpected side effects.
-- **On a miss**, the experimentation backfires. You suffer harm, a permanent Allomantic ailment, or attract unwanted attention due to the volatile nature of your experiments.
+- **On a 12+**: You discover a new metal or alloy, understanding its properties perfectly. Describe its effects, and add it to your repertoire. It remains rare, and acquiring it might be an adventure on its own.
+- **On a 10-11**: You discover a new metal or alloy, but its full potential remains shrouded. Gain a general sense of its power, but specific applications are still uncertain. More research or practical application will be required to fully harness it.
+- **On a 7-9**: Your experiments lead to unstable results. You get a hint of a new potential power, but using it is risky. Every time you use this metal or alloy, there's a significant chance of unexpected side effects.
+- **On a miss**: The experimentation backfires. You suffer harm, a permanent Allomantic ailment, or attract unwanted attention due to the volatile nature of your experiments.
 
 _Note: The discovery of new metals or alloys can significantly impact the narrative and balance of the game. Collaborate with your GM to ensure the newly discovered metal fits the story and world._
 
@@ -316,13 +319,13 @@ The temptation to ingest and burn unprocessed metals, driven by either audacity 
 
 Tapping into the raw form of Allomancy, you engage with its unpredictable, wild, and potent nature. When you choose to ingest and subsequently burn an unrefined metal, make a roll+WIS.
 
-- **On a 12+**, you tap into the raw power of the metal. There's a hint of wildness to the power, making it harder to control.
-- **On a 10-11**, you harness the power of the unprocessed metal but not without difficulty. Choose one:
+- **On a 12+**: You tap into the raw power of the metal. There's a hint of wildness to the power, making it harder to control.
+- **On a 10-11**: You harness the power of the unprocessed metal but not without difficulty. Choose one:
     - The effect is potent but short-lived, lasting half the usual duration.
     - You feel a significant drain, leaving you weakened or fatigued.
     - The power is unwieldy, and there's a chance it might go slightly awry.
 - - On a 7-9\*\*, the raw metal's power is unpredictable. The GM will give you 1-3 options, each with a cost, complication, or unwanted side effect. Choose one to manifest.
-- **On a miss**, the metal reacts violently within you. Suffer harm from metal poisoning, lose access to your Allomantic powers temporarily, or face other severe consequences.
+- **On a miss**: The metal reacts violently within you. Suffer harm from metal poisoning, lose access to your Allomantic powers temporarily, or face other severe consequences.
 
 _Note: Using unprocessed metals can be a game-changing decision. Collaborate with your GM to ensure the effects and narrative implications are fitting for the situation._
 
