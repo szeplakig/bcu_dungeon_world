@@ -19,32 +19,25 @@ Your base damage is d6.
 - **Description**: Your journey into the realm of Allomancy has just begun, and you've familiarized yourself with a few metals.
 - **Effect**: You can recognize, prepare, ingest, and burn up to 2 different Allomantic metals. These are locked in forever.
 
+### Burn Metal
+
+When you actively "burn" (akin to burning calories) an ingested metal to utilize its powers, using up 1 (or more/less) hold(s) of the holds gained from "Ingest Metal":
+
 ### Ingest Metal
 
-When you consume a specific Allomantic metal or alloy, and store it into your system, roll+INT:
+You consume 1 use of a specific Allomantic metal or alloy, and store it into your system, **Roll+CON**:
 
-- **On a 10+**, you gain 2 holds and can immediately burn one use without an extra action. Choose one of the following:
-  - **Unlimited power**: Automatically flair the metal (roll for that as well without using an extra action)
-  - **Extension**: Extend the duration of a previously accessed metal by 2 holds
-  - **Safety first**: Prevent negative effects from the metal
-- **On a 7-9**, you gain 2 holds. You can choose to immediately burn one use.
-- **On a miss**, you suffer the adverse reactions of consuming the metal and decide one from the following:
+- **On a 10+**, you gain 2 holds. Choose one of the following:
+  - **Ready action**: You can choose to immediately burn one use.
+  - **Extension**: Extend the duration of a previously accessed metal by 2 holds.
+  - **Safety first**: Prevent negative effects from the metal. (you suffer the negative effect of the metal otherwise)
+- **On a 7-9**, you gain 2 holds, you suffer the negative effect of the metal.
+- **On a miss**, you suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
   - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover, or suffer -1 ongoing until you do.
   - **Metal Burn**: The metal burns hotter than expected, causing discomfort or minor burns. Take 1 harm.
   - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
 
-_Note: Ingest can be swallow as a solution, absorb through the skin of your hands, or other methods you can think of._
-
-### Burn Metal
-
-When you actively "burn" (akin to burning calories) an ingested metal to utilize its powers, using up 1 (or more/less) hold of that specific:
-
-- **On a 10+**, the metal's effects are strong and controlled, without unexpected issues.
-- **On a 7-9**, you use the metal effectively but also face its negative effects.
-- **On a miss**, the metal's effects are unpredictable. The GM decides the outcome, which might include increased negative effects or diminished positive ones.
-
-_Note 1: Remember that each time you burn metal, it uses up 1 (or more/less, depending on circumstances) of the holds gained from "Ingest Metal"._
-_Note: If you dare to Burn metals that you do not know (eg.: have not choosen), you get severe consequences choosen by the DM. Following Advanced Moves can overwrite this rule._
+_**Note**: Ingest can be swallow as a solution, absorb through the skin of your hands, or other methods you can think of._
 
 ### Prepare Metal
 
@@ -54,13 +47,13 @@ This process is delicate and if done wrong, can cause harm or provide a weaker e
 
 Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create INT uses of Allomantic metal.
 
-Roll+WIS to determine the outcome.
+**Roll+INT** to determine the outcome.
 
 - **On a 10+**, the metal is perfectly prepared.
 - **On a 7-9**, you prepare the metal but something happens, choose from the following:
-  - **Lesser effect**: You create a Weak Allomatic metal batch. This means these powers are weaker.
+  - **Weak draft**: You create a Weak Allomatic Metal batch. This means these powers are weaker.
   - **Accident**: You mess up during the process and hurt youself but still manage to complete the batch, take 1 harm.
-  - **Wastage**
+  - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal.
 - **On a miss**, you've made a grave mistake in preparation, the GM will decide the consequences.
 
 ### Sense Metal Reserves
@@ -94,9 +87,9 @@ Choose your weapon:
 - Short Sword (close, 1 weight)
 - Metal-tipped Staff (close, two-handed, 1 weight)
 
-Choose two of the basic metals, these will be the two you can use from the start:
+Choose four vials of the basic Allomantic metals (it is best to choose from the ones you can use):
 
-- Vial of _metal_ (2 uses, 0.5 weight each)
+- Vial of Allomantic Metal solution (0.5 weight each)
 
 Choose one:
 
@@ -150,22 +143,35 @@ _Note: Your allies can use your current metal holds until they run out. They hav
 
 ### Adept Allomancer
 
-_Requires: Journeyman Allomancer_
+_Replaces: Journeyman Allomancer_
 
 - **Description**: Your expertise in Allomancy grows, and so does your repertoire of metals.
 - **Effect**: You can recognize, prepare, ingest, and burn up to 6 different Allomantic metals one of which can be an Advanced Metal.
+
+### Harmonic Adept
+
+_Replaces: Harmonic Initiate_
+
+- **Description**: Your proficiency has grown, and now you can harness the power of three metals at once, intertwining their effects for more complex results.
+- **Effect**: You can burn up to 3 metals simultaneously. As your mastery grows, so does the complexity and risk. Each burn still requires its own roll, and the chances of negative side effects are amplified.
 
 ### Harmonic Initiate
 
 - **Description**: You've started to tap into the deeper intricacies of Allomancy, allowing you to burn two metals simultaneously.
 - **Effect**: You can burn up to 2 metals at the same time. When you do, both metals' effects apply. Roll for each metal separately, taking into account any successes, failures, or side effects. This ability requires focus and energy.
 
-### Harmonic Adept
+### Refined Ingestion
 
-_Requires: Harmonic Initiate_
+Through practice and mastery of your Allomantic abilities, you have learned to rapidly ingest and utilize metals with finesse. When you consume a specific Allomantic metal or alloy, you may choose to make it a "bonus action", allowing you to burn the metal immediately. When you ingest a metal this way, **Roll+CON**:
 
-- **Description**: Your proficiency has grown, and now you can harness the power of three metals at once, intertwining their effects for more complex results.
-- **Effect**: You can burn up to 3 metals simultaneously. As your mastery grows, so does the complexity and risk. Each burn still requires its own roll, and the chances of negative side effects are amplified.
+- **On a 10+**, you gain 3 holds. You can choose to immediately burn one use and you do not suffer the negative effects.
+- **On a 7-9**, you gain 3 holds. You can choose to immediately burn one use, but you suffer the negative effect of the metal.
+- **On a miss**, you gain 2 holds. You suffer the negative effects of the metal, you suffer the negative effect of the metal and choose one from the following:
+  - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover, or suffer -1 ongoing until you do.
+  - **Metal Burn**: The metal burns hotter than expected, causing discomfort or minor burns. Take 1 harm.
+  - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
+
+\_**Note**: Ingest can be swallow as a solution, absorb through the skin of your hands, or other methods you can think of.
 
 ### Flare Metal
 
@@ -228,34 +234,34 @@ When you intensify the burn of your metal to boost its effects, roll+CON to dete
 - **Cost**: Burn 1 hold of Bronze.
 - **Effect**: Focus on a particular type of magic or energy, increasing your chances of discovering its presence or origin.
 
-## Advanced moves (6-10)
+## Advanced Moves (6-10)
 
 ### Master Allomancer
 
-_Requires: Adept Allomancer_
+_Replaces: Adept Allomancer_
 
 - **Description**: Few can match your knowledge and command over the metals, making you a force to be reckoned with.
-- **Effect**: You can recognize, prepare, ingest, and burn up to 8 different Allomantic metals. Two of which can be Advanced Metals.
+- **Effect**: You can recognize, prepare, ingest, and burn up to 8 different Allomantic metals. Two of which can be Rare Metals.
 
 ### Grandmaster Allomancer
 
-_Requires: Master Allomancer_
+_Replaces: Master Allomancer_
 
 - **Description**: Legends are told about Allomancers of your caliber. You've unlocked almost all secrets of the metals.
-- **Effect**: You can recognize, prepare, ingest, and burn to 10 different Allomantic metals. Four of which can be Advanced Metals.
+- **Effect**: You can recognize, prepare, ingest, and burn to 10 different Allomantic metals. Four of which can be Rare Metals.
 
 ### Harmonic Maestro
 
-_Requires: Harmonic Adept_
+_Replaces: Harmonic Adept_
 
 - **Description**: You stand among the elite Allomancers, with the rare ability to simultaneously control and harmonize the effects of four metals.
 - **Effect**: At the peak of your skill, you can burn 3 metals at once, weaving their powers into a masterful display of Allomantic prowess. The risks are considerable, but the potential benefits are immense.
 
 ### Mistborn
 
-_Requires: Grandmaster Allomancer_
+_Replaces: Grandmaster Allomancer_
 
-_Requires: Harmonic Adept_
+_Replaces: Harmonic Adept_
 
 - **Description**: As a Mistborn, you are among the legends of the Allomantic world, able to harness the power of every known metal and some say, even beyond.
 - **Effect**: You can recognize, prepare, ingest, and burn every known Allomantic metal. Also, you can burn 5 metals at once.
@@ -355,189 +361,139 @@ _Note: Using unprocessed metals can be a game-changing decision. Collaborate wit
 - **Cost**: Spend 2 holds of Zinc.
 - **Effect**: The targeted individual becomes extremely emotional and might act without thinking, which could lead to mistakes or rash decisions.
 
-## Basic Metals
+## Common Metals
 
-Basic metals cost 1 coin each.
+Common Metals cost 1 coin each.
 
 ### Iron
 
-#### Use: Pull yourself towards something heavy, or pull something light towards you.
-
-#### Negative effect: Over-pulling causes you to crash into the target, taking harm.
-
-#### Possible uses:
-
-- Scaling walls by pulling yourself to metal fixtures.
-- Retrieving metal objects from a distance.
+- **Use**: Attract any solid (non-living) object or structure within your line of sight towards you, or yourself towards it. Control the force and speed.
+- **Negative effect**: Over-pulling causes uncontrollable attraction, resulting in collisions.
+- **Example uses**:
+  - Pulling a locked door off its hinges.
+  - Swinging from metal beams or structures.
 
 ### Steel
 
-#### Use: Push yourself away from something heavy, or push something light away from you.
-
-#### Negative effect: Over-pushing can cause strain, potentially spraining or injuring yourself.
-
-#### Possible uses:
-
-- Rapidly moving backward for strategic positioning.
-- Repelling metal weapons or projectiles.
+- **Use**: Repel any solid (non-living) object or structure within your line of sight away from you, or yourself from it. Control the force and speed.
+- **Negative effect**: Over-pushing can launch you or objects at dangerous speeds.
+- **Example uses**:
+  - Rapidly moving backward for strategic positioning.
+  - Repelling metal weapons or projectiles.
 
 ### Pewter
 
-#### Use: Augment physical abilities, strength, speed, or endurance.
-
-#### Negative effect: Overexertion leads to exhaustion, requires rest, or risks harm.
-
-#### Possible uses:
-
-- Fighting against multiple enemies.
-- Running at high speeds or lifting heavy objects.
+- **Use**: Augment physical abilities, strength, speed, or endurance.
+- **Negative effect**: Extended use strains muscles, needing recovery time.
+- **Example uses**:
+  - Breaking chains or shackles.
+  - Dodging attacks with enhanced agility.
 
 ### Tin
 
-#### Use: Enhance one of your senses to superhuman levels.
-
-#### Negative effect: Overwhelms the enhanced sense, causing temporary blindness, deafness, etc.
-
-#### Possible uses:
-
-- Spotting distant objects or figures.
-- Hearing faint noises or whispers.
+- **Use**: Magnify any one sense to unearthly degrees, even seeing in total darkness.
+- **Negative effect**: Overwhelms the enhanced sense, causing temporary blindness, deafness, etc.
+- **Example uses**:
+  - Spotting distant objects or figures.
+  - Hearing faint noises or whispers.
 
 ### Zinc
 
-#### Use: Inflame another's emotions, making them more susceptible to your influence.
-
-#### Negative effect: The target's emotions become too volatile, making them unpredictable.
-
-#### Possible uses:
-
-- Intimidating an opponent.
-- Persuading someone to see your perspective.
+- **Use**: Inflame another's emotions, making them more susceptible to your influence.
+- **Negative effect**: The target's emotions become too volatile, making them unpredictable.
+- **Example uses**:
+  - Intimidating an opponent.
+  - Persuading someone to see your perspective.
 
 ### Brass
 
-#### Use: Soothe another's emotions, dulling their responses.
-
-#### Negative effect: The target becomes emotionally numb, potentially unresponsive.
-
-#### Possible uses:
-
-- Calming a panicking ally.
-- Making an opponent less aggressive.
+- **Use**: Soothe another's emotions, dulling their responses.
+- **Negative effect**: Over-suppression can lead to lethargy or unconsciousness.
+- **Example uses**:
+  - Calming a panicking ally.
+  - Making an opponent less aggressive.
 
 ### Copper
 
-#### Use: Absorb and dissipate ambient magical or mysterious energies, making it easier to resist or prevent spells and mysterious effects.
-
-#### Negative effect: Prolonged use can make you a "dead zone" for magic, meaning even beneficial spells might fail or be dispelled around you.
-
-#### Possible uses:
-
-- Neutralizing a trap that uses magical or mysterious energies.
-- Shielding yourself from a harmful spell.
-- Making it difficult for enemies to use magical effects while near you.
+- **Use**: Create a protective aura, nullifying magical effects within its radius.
+- **Negative effect**: Prolonged use can make you a "dead zone" for magic, meaning even beneficial spells might fail or be dispelled around you.
+- **Example uses**:
+  - Disabling magical alarms or barriers.
+  - Protecting allies from harmful spells.
 
 ### Bronze
 
-#### Use: Enhance perception to detect faint sources of magic or mystery, including weak enchantments, residues of spells, or low-level magical beings.
+- **Use**: Discern magical signatures, revealing types, strengths, or sources of magic.
+- **Negative effect**: Strong sources might overwhelm, causing dizziness.
+- **Example uses**:
+  - Detecting magical disguises or illusions.
+  - Tracing the origin of a spell or curse.
 
-#### Negative effect: The echoes can sometimes be misleading or too overwhelming, leading you astray or making you vulnerable to illusions.
+## Rare Metals
 
-#### Possible uses:
-
-- Discovering the faint trace of a magical barrier or seal.
-- Identifying if an object has been touched by magic recently.
-- Sensing low-level magical creatures or entities.
-
-## Advanced metals
-
-Basic metals cost 5 coins each.
-
-### Gold
-
-#### Use: Harnessing Gold's power, you can rewind time on your own body to a healthier state. You don't remember events after that point, but your body returns to the state it was in a few moments ago.
-
-#### Negative effect: After using Gold, you're disoriented and have difficulty distinguishing between the present and the moment you reverted to.
-
-#### Possible uses:
-
-- Healing wounds sustained in recent combat.
-- Quickly recovering from poisons or other debilitating effects, if administered recently.
-
-### Electrum
-
-#### Use: Burn Electrum to bolster your body's natural resistances, making you temporarily immune to extreme environmental conditions and certain types of energy.
-
-#### Negative effect: Extended use can cause your body to become reliant on Electrum, leaving you more vulnerable to such effects once its influence fades.
-
-#### Possible uses:
-
-- Navigating through extreme temperatures (hot or cold) unscathed.
-- Safely traversing acidic or corrosive environments.
-- Absorbing or deflecting energy-based or necrotic attacks.
-- Protecting oneself from hazardous environmental effects during exploration or combat.
-
-### Aluminum
-
-#### Use: Wipes out your Allomantic reserves, negating active effects.
-
-#### Negative effect: Leaves you vulnerable and without Allomantic defenses.
-
-#### Possible uses:
-
-- A last-ditch effort to avoid detection or negate a harmful Allomantic effect.
-
-### Duralumin
-
-#### Use: Enhances the burn of another metal, giving a powerful but brief surge of that power.
-
-#### Negative effect: Drains the metal reserve completely, leaving you without that metal's powers.
-
-#### Possible uses:
-
-- A powerful, unexpected push or pull using Iron or Steel.
-- A heightened emotional influence using Zinc or Brass.
+Common Metals cost 5 coins each.
 
 ### Silver
 
-#### Use: Accelerates healing, mending wounds and recovering from injuries faster.
+- **Use**: Conduct and amplify magical energies, enhancing spell effects.
+- **Negative effect**: Over-amplification might spiral magic out of control.
+- **Example uses**:
+  - Supercharging a simple light spell to illuminate a vast area.
+  - Amplifying a healing spell to close grievous wounds.
 
-#### Negative effect: Overuse may lead to feverish symptoms and weaken the immune system temporarily.
+### Gold
 
-#### Possible uses:
+- **Use**: Harnessing Gold's power, you can rewind time on your own body to a healthier state. You don't remember events after that point, but your body returns to the state it was in a few moments ago.
+- **Negative effect**: After using Gold, you're disoriented and have difficulty distinguishing between the present and the moment you reverted to.
+- **Example uses**:
+  - Healing wounds sustained in recent combat.
+  - Quickly recovering from poisons or other debilitating effects, if administered recently.
 
-- Recovering from injuries in the midst of battle.
-- Assisting allies who are critically wounded.
+### Electrum
+
+- **Use**: Burn Electrum to bolster your body's natural resistances, making you temporarily immune to extreme environmental conditions and certain types of energy.
+- **Negative effect**: Extended use can cause your body to become reliant on Electrum, leaving you more vulnerable to such effects once its influence fades.
+- **Example uses**:
+  - Navigating through extreme temperatures (hot or cold) unscathed.
+  - Safely traversing acidic or corrosive environments.
+  - Absorbing or deflecting energy-based or necrotic attacks.
+  - Protecting oneself from hazardous environmental effects during exploration or combat.
+
+### Aluminum
+
+- **Use**: Wipes out your Allomantic reserves, negating active effects.
+- **Negative effect**: Leaves you vulnerable and without Allomantic defenses.
+- **Example uses**:
+  - A last-ditch effort to avoid detection or negate a harmful Allomantic effect.
+
+### Duralumin
+
+- **Use**: Enhances the burn of another metal, giving a powerful but brief surge of that power.
+- **Negative effect**: Drains the metal reserve completely, leaving you without that metal's powers.
+- **Example uses**:
+  - A powerful, unexpected push or pull using Iron or Steel.
+  - A heightened emotional influence using Zinc or Brass.
 
 ### Graphite
 
-#### Use: Enhance the physical abilities of an ally, giving them increased strength and speed.
-
-#### Negative effect: The ally becomes overconfident, potentially taking unnecessary risks.
-
-#### Possible uses:
-
-- Strengthening an ally in battle.
-- Helping a companion perform a feat of strength or agility.
+- **Use**: Disrupt magical connections, severing ongoing spells or bindings.
+- **Negative effect**: Misuse can disrupt beneficial magic or create feedback.
+- **Example uses**:
+  - Releasing someone from magical bondage.
+  - Stopping a spellcaster's ongoing magic.
 
 ### Mercury
 
-#### Use: Weaken an opponent, making their movements sluggish and slow.
-
-#### Negative effect: If misapplied, can cause paralysis or extended incapacitation.
-
-#### Possible uses:
-
-- Slowing down a pursuer.
-- Reducing the threat of a powerful enemy in combat.
+- **Use**: Weaken an opponent, making their movements sluggish and slow.
+- **Negative effect**: Misuse might make you more vulnerable to non-physical threats.
+- **Example uses**:
+  - Walking through a hail of arrows unharmed.
+  - Surviving falls from great heights.
 
 ### Onyx
 
-#### Use: Create a temporary shield around oneself, deflecting physical attacks.
-
-#### Negative effect: Overuse may cause disorientation or temporary blindness.
-
-#### Possible uses:
-
-- Protecting oneself from projectiles or melee attacks.
-- Blocking an unexpected assault.
+- **Use**: Create a temporary shield around oneself, deflecting physical attacks.
+- **Negative effect**: Overuse may cause disorientation or temporary blindness.
+- **Example uses**:
+  - Protecting oneself from projectiles or melee attacks.
+  - Blocking an unexpected assault.
