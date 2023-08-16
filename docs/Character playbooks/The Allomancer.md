@@ -54,7 +54,14 @@ Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create IN
     - **Weak draft**: You create a Weak Allomatic Metal batch. This means these powers are weaker.
     - **Accident**: You mess up during the process and hurt yourself but still manage to complete the batch. Take 1 harm.
     - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal.
-- **On a miss**: You've made a grave mistake in preparation; the GM will decide the consequences. ()
+- **On a miss**: You've made a grave mistake in preparation; the GM will decide the consequences. Choose from the following:
+    - **Nothing**: You have managed to leave the room before it filled up with toxic fumes.
+    - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins equal to the initial cost.
+    - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
+    - **Explosion**: Your preparation goes horribly wrong, resulting in a small explosion. Take 1 harm (burn) and you are thrown into a chaotic situation.
+    - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You are unable to use your Allomantic powers until you spend a full day recovering.
+
+
 
 ### Sense Metal Reserves
 
