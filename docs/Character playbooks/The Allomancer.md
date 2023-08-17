@@ -143,6 +143,8 @@ _Note: Your allies can use your current metal holds until they run out or they r
 
 ### Journeyman Allomancer
 
+_Replaces: Novice Allomancer_
+
 - **Description**: With continued practice and understanding, you can now harness the powers of additional metals.
 - **Effect**: You can recognize, prepare, ingest, and burn up to 4 different Allomantic metals.
 
@@ -190,66 +192,6 @@ When you intensify the burn of your metal to boost its effects, roll+CON to dete
     - **Accident**: Suffer 1 harm from the strain (eg.: burns, sensory loss, heart problems or anything else appropriate.)
 - **On a miss**: The flaring goes wrong and completely burns up all remaining holds of this metal.
 
-### Steel Leap
-
-- **Description**: You can use Steel to Push against heavy or static objects, defying gravity momentarily.
-- **Cost**: Burn 1 hold of Steel.
-- **Effect**: Propel yourself into the air, leaping a distance up to 30 feet horizontally or 15 feet vertically. This allows you to reach high places, cross significant gaps, or bypass obstacles. You can also use Steel Leap to quickly engage or disengage from a situation, giving you an advantage in positioning.
-
-### Iron Anchor
-
-- **Description**: By burning Iron, you can ground yourself firmly, becoming immovable for a short duration.
-- **Cost**: Burn 1 hold of Iron.
-- **Effect**: For a brief moment, you cannot be moved, knocked back, or forced out of your position, no matter the strength of the external force. This grants you +2 armor against physical attacks until the start of your next turn.
-
-### Emotion Insight
-
-- **Description**: Gain deeper insights into the emotions or intentions of those around you.
-- **Cost**: Burn 1 hold of Zinc.
-- **Effect**: You can ask the GM a specific question about the mental state (emotions, intentions, thoughts) of a person you can cross your eyes with. Examples:
-    - Does this merchant genuinely believe the artifact he's selling is real, or is he trying to scam me?
-    - Is the tavern keeper afraid of the hooded figure in the corner?
-    - Is the druid hiding something about the enchanted forest from us? 
-    The GM will answer truthfully, but keep in mind that the answer may not always be clear-cut or comprehensive.
-
-### Steel Whirlwind
-
-- **Description**: A quick burst of Steel pushes everything light away from you, creating a zone of defense or clearing an area.
-- **Cost**: Burn 1 hold of Steel.
-- **Effect**: Anything light within a short radius is quickly pushed away. Roll+STR:
-    - On a 10+: Choose 2 of the following:
-        - You disarm nearby opponents.
-        - You create an opening or clear a path through obstacles.
-        - You create a zone where projectiles and ranged attacks from enemies are deflected, providing cover to you and your allies.
-    - On a 7-9: Choose 1 of the above options.
-    - On a miss: You lose control of the burst of Steel, and it causes unintended destruction or harm, leaving a chaotic situation in its wake.
-
-### Pewter Arm
-
-- **Description**: When you channel the power of Pewter, your physical strength and prowess are amplified, allowing you to perform feats of might beyond the norm.
-- **Cost**: Burn 1 hold of Pewter.
-- **Effect**: You gain +1 ongoing to any STR- or DEX-based action. If used in combat, you can also knock an opponent back or off-balance with the sheer force of your attack. Additionally, you have an improved chance to directly engage in melee combat without suffering the consequences of a hard move, as long as you have Pewter active.
-
-### Zinc Rage
-
-- **Description**: Amplify the emotions of those around you, sowing chaos or strengthening allies.
-- **Cost**: Burn 1 hold of Zinc.
-- **Effect**: Enemies within a short distance become more aggressive and might attack without strategy. Their awareness and judgment are clouded by heightened emotion. Allies gain a boost in morale and get +1 forward on their next action. However, such amplified emotions can also make it difficult to reason with or calm either enemies or allies.
-
-### Copper Shield
-
-- **Description**: Create an area where Allomantic pulses are muted, protecting against detection or manipulation.
-- **Cost**: Burn 1 hold of Copper.
-- **Effect**: For a short duration, Allomantic actions within the shielded zone are undetectable from outside. Those inside are also protected from emotional Allomancy. This shielded area is considered a sanctuary where emotional manipulation or Allomantic detection is suppressed, providing a +1 ongoing to resist such effects for anyone inside.
-
-### Bronze Finesse
-
-- **Description**: Refine your usage of Bronze to detect specific magical traces or energies.
-- **Cost**: Burn 1 hold of Bronze.
-- **Effect**: Focus on a particular type of magic or energy, increasing your chances of discovering its presence or origin. Roll+WIS:
-    - On a 10+: The GM provides accurate and detailed information about the magical trace or energy you're focusing on, including its origin, strength, and any notable characteristics.
-    - On a 7-9: The GM provides general information, giving you some clues or hints about the magical trace or energy but leaving some room for interpretation or speculation.
-    - On a miss: The information you receive about the magical trace or energy is misleading or incomplete, leading you to draw the wrong conclusions or make flawed assumptions.
 ## Advanced Moves (6-10)
 
 ### Master Allomancer
@@ -296,10 +238,10 @@ Roll+WIS to determine the outcome.
     - **Draining process**: The intense concentration required leaves you exhausted. Take -1 forward until your next roll.
     - **Resource intensive**: You've consumed extra resources in the process. Use up 4 more coins worth of chemicals.
 - **On a miss**: You've made a grave mistake in preparation. The GM will decide the consequences. Choose from the following:
-    - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins **double** to the initial cost.
+    - **Resource Drain**: Your preparation was so off that you’ve wasted the intended materials and additional resources. Lose an amount of coins **double** to the initial cost.
     - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
     - **Explosion**: Your preparation goes horribly wrong, resulting in a small explosion. Take 1 harm (burn) and you are thrown into a chaotic situation.
-    - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You are unable to use your Allomantic powers until you spend a full day recovering.
+    - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You cannot use your Allomantic powers until you spend a full day recovering.
 
 ### Metallurgical Mastery
 
@@ -338,84 +280,6 @@ _Note: Using unprocessed metals can be a game-changing decision. Collaborate wit
 - **Description**: By delicately pushing against the floor or ground, you can lighten your steps to the point they're almost silent, making you move like a whisper.
 - **Cost**: Burn 1 hold of Steel.
 - **Effect**: For a short duration, your steps are near-silent, allowing you to move with exceptional stealth. You gain a +1 forward to any DEX-based rolls related to sneaking or remaining undetected.
-
-### Ghostly Hide
-
-- **Description**: Use a rare technique to become near invisible, letting light partially pass through you. Perfect for stealth or evasion.
-- **Cost**: Burn 1 hold of Electrum, 1 hold of Bronze, and 1 hold of Zinc at the same time.
-- **Effect**: For a brief period, you become translucent, making it difficult for others to visually detect you. Gain a +1 forward to any Defy Danger rolls related to remaining unseen or avoiding notice.
-
-### Duralumin Burst
-
-- **Description**: Burn Duralumin to drastically enhance the effect of another burned metal, but the metal's supply is quickly exhausted.
-- **Cost**: Burn 1 hold of Duralumin and all holds of another metal (at least 3).
-- **Effect**: The next action using the other metal has its effect magnified considerably, but all reserves of that metal are consumed. Roll+INT:
-    - On a 10+: Choose 2 of the following:
-    - The enhanced effect lasts for twice as long.
-    - The potency of the enhanced effect is increased by +1.
-    - You can also choose a secondary effect to accompany the enhanced effect (GM-approved).
-    - On a 7-9: Choose 1 of the above options.
-    - On a miss: The metal's power surges out of control, causing unintended side effects or damage (GM's discretion).
-
-### Metalborn Weaponry
-
-- **Description**: Infuse a weapon with Allomantic energy, enhancing its potency.
-- **Cost**: Burn 1 hold of any metal.
-- **Effect**: For a short duration, the weapon gains a +1 bonus to damage, making it more deadly. Additionally, the weapon gains an additional effect based on the burned metal. The specific effect should be agreed upon with the GM and can be tied to the properties of the metal burned (e.g., fire damage for burning Iron, piercing effect for burning Steel).
-
-### Pewterclad Armor
-
-- **Description**: Strengthen your armor using Pewter, making it near impervious.
-- **Cost**: Spend 1 hold of Pewter.
-- **Effect**: For a short duration, the armor gains a +2 bonus against damage, making it more resilient. This bonus reduces the damage suffered from physical attacks while the Pewterclad Armor is active.
-
-### Brass Calm
-
-- **Description**: Use Brass to calm emotions, even inducing sleep in those affected.
-- **Cost**: Spend 1 hold of Brass.
-- **Effect**: Those affected feel a sudden wave of tranquility. They might also fall asleep if they fail a resistance check. Roll+WIS:
-    - On a 10+: They fall into a peaceful sleep, completely unresponsive for a short period.
-    - On a 7-9: They feel calmer and more relaxed, but they are still somewhat aware and may be easily roused.
-    - On a miss: The attempt to induce sleep backfires, causing the target to become agitated or even hostile.
-
-### Enhanced Zinc Rage
-
-- **Description**: Ignite intense emotions in a targeted individual, causing them to act impulsively.
-- **Cost**: Spend 2 holds of Zinc.
-- **Effect**: The targeted individual becomes extremely emotional and might act without thinking, which could lead to mistakes or rash decisions. Roll+CHA:
-    - On a 10+: The emotional surge overwhelms the target, and they act irrationally, making them more susceptible to making mistakes or being easily manipulated.
-    - On a 7-9: The target's emotions intensify but still retain some control, leading to impulsive actions that may or may not be beneficial to you.
-    - On a miss: The emotions spiral out of control, causing the target to become hostile or act in a self-destructive manner.
-
-### Luminal Radiance
-
-- **Description**: Burn Silver and amplify your magical energy, creating a blinding burst of light.
-- **Cost**: Burn 1 hold of Silver.
-- **Effect**: Emit a brilliant flash of light, temporarily blinding all opponents within a short radius. They are forced to shield their eyes, making it difficult for them to accurately target or react to your actions.
-
-### Eternal Vitality
-
-- **Description**: Consume Gold to tap into your inner resilience, granting temporary invigoration and resistance to harm.
-- **Cost**: Burn 1 hold of Gold.
-- **Effect**: Gain +2 ongoing to defy danger rolls related to physical endurance, mental fortitude, and resisting harmful effects for a short period of time.
-
-### Tempest's Embrace
-
-- **Description**: By burning Electrum and Bronze in harmony, you tap into the interplay of fate and magic, allowing you to manipulate the flow of time.
-- **Cost**: Burn 1 hold of Electrum and 1 hold of Bronze simultaneously.
-- **Effect**: Slow down or speed up the passage of time within a small area, affecting the movement and actions of creatures and objects within. This allows you to either create advantageous positioning or hinder opponents' reactions.
-
-### Nullpulse Field
-
-- **Description**: Harness the unique properties of Aluminum to create a field that temporarily neutralizes or blocks magical abilities.
-- **Cost**: Burn 1 hold of Aluminum.
-- **Effect**: Create an aura around yourself that dampens or suppresses magical powers within a short radius. This makes it difficult for opponents to use magic or other supernatural abilities while within the field.
-
-### Harmonic Fusion
-
-- **Description**: Burn Duralumin and Aluminum simultaneously, merging your Allomantic abilities with the raw power of Preservation and Ruin.
-- **Cost**: Burn 1 hold of Duralumin and 1 hold of Aluminum simultaneously.
-- **Effect**: Channel the combined power of Preservation and Ruin for a short duration, greatly enhancing your Allomantic abilities. You gain a +1 bonus to all rolls involving Allomantic powers and abilities, and the duration of your burns is extended.
 
 ## Common Metals
 
@@ -552,3 +416,146 @@ Rare Metals cost 4 coins each.
 - **Example uses**:
     - Protecting oneself from projectiles or melee attacks.
     - Blocking an unexpected assault.
+
+
+## Burn Metal Example moves
+
+
+### Steel Leap
+
+- **Description**: You can use Steel to Push against heavy or static objects, defying gravity momentarily.
+- **Cost**: Burn 1 hold of Steel.
+- **Effect**: Propel yourself into the air, leaping a distance up to 30 feet horizontally or 15 feet vertically. This allows you to reach high places, cross significant gaps, or bypass obstacles. You can also use Steel Leap to quickly engage or disengage from a situation, giving you an advantage in positioning.
+
+### Iron Anchor
+
+- **Description**: By burning Iron, you can ground yourself firmly, becoming immovable for a short duration.
+- **Cost**: Burn 1 hold of Iron.
+- **Effect**: For a brief moment, you cannot be moved, knocked back, or forced out of your position, no matter the strength of the external force. This grants you +2 armor against physical attacks until the start of your next turn.
+
+### Emotion Insight
+
+- **Description**: Gain deeper insights into the emotions or intentions of those around you.
+- **Cost**: Burn 1 hold of Zinc.
+- **Effect**: You can ask the GM a specific question about the mental state (emotions, intentions, thoughts) of a person you can cross your eyes with. Examples:
+    - Does this merchant genuinely believe the artifact he's selling is real, or is he trying to scam me?
+    - Is the tavern keeper afraid of the hooded figure in the corner?
+    - Is the druid hiding something about the enchanted forest from us? 
+    The GM will answer truthfully, but keep in mind that the answer may not always be clear-cut or comprehensive.
+
+### Steel Whirlwind
+
+- **Description**: A quick burst of Steel pushes everything light away from you, creating a zone of defense or clearing an area.
+- **Cost**: Burn 1 hold of Steel.
+- **Effect**: Anything light within a short radius is quickly pushed away. Roll+STR:
+    - On a 10+: Choose 2 of the following:
+        - You disarm nearby opponents.
+        - You create an opening or clear a path through obstacles.
+        - You create a zone where projectiles and ranged attacks from enemies are deflected, providing cover to you and your allies.
+    - On a 7-9: Choose 1 of the above options.
+    - On a miss: You lose control of the burst of Steel, and it causes unintended destruction or harm, leaving a chaotic situation in its wake.
+
+### Pewter Arm
+
+- **Description**: When you channel the power of Pewter, your physical strength and prowess are amplified, allowing you to perform feats of might beyond the norm.
+- **Cost**: Burn 1 hold of Pewter.
+- **Effect**: You gain +1 ongoing to any STR- or DEX-based action. If used in combat, you can also knock an opponent back or off-balance with the sheer force of your attack. Additionally, you have an improved chance to directly engage in melee combat without suffering the consequences of a hard move, as long as you have Pewter active.
+
+### Zinc Rage
+
+- **Description**: Amplify the emotions of those around you, sowing chaos or strengthening allies.
+- **Cost**: Burn 1 hold of Zinc.
+- **Effect**: Enemies within a short distance become more aggressive and might attack without strategy. Their awareness and judgment are clouded by heightened emotion. Allies gain a boost in morale and get +1 forward on their next action. However, such amplified emotions can also make it difficult to reason with or calm either enemies or allies.
+
+### Copper Shield
+
+- **Description**: Create an area where Allomantic pulses are muted, protecting against detection or manipulation.
+- **Cost**: Burn 1 hold of Copper.
+- **Effect**: For a short duration, Allomantic actions within the shielded zone are undetectable from outside. Those inside are also protected from emotional Allomancy. This shielded area is considered a sanctuary where emotional manipulation or Allomantic detection is suppressed, providing a +1 ongoing to resist such effects for anyone inside.
+
+### Bronze Finesse
+
+- **Description**: Refine your usage of Bronze to detect specific magical traces or energies.
+- **Cost**: Burn 1 hold of Bronze.
+- **Effect**: Focus on a particular type of magic or energy, increasing your chances of discovering its presence or origin. Roll+WIS:
+    - On a 10+: The GM provides accurate and detailed information about the magical trace or energy you're focusing on, including its origin, strength, and any notable characteristics.
+    - On a 7-9: The GM provides general information, giving you some clues or hints about the magical trace or energy but leaving some room for interpretation or speculation.
+    - On a miss: The information you receive about the magical trace or energy is misleading or incomplete, leading you to draw the wrong conclusions or make flawed assumptions.
+ 
+### Ghostly Hide
+
+- **Description**: Use a rare technique to become near invisible, letting light partially pass through you. Perfect for stealth or evasion.
+- **Cost**: Burn 1 hold of Electrum, 1 hold of Bronze, and 1 hold of Zinc at the same time.
+- **Effect**: For a brief period, you become translucent, making it difficult for others to visually detect you. Gain a +1 forward to any Defy Danger rolls related to remaining unseen or avoiding notice.
+
+### Duralumin Burst
+
+- **Description**: Burn Duralumin to drastically enhance the effect of another burned metal, but the metal's supply is quickly exhausted.
+- **Cost**: Burn 1 hold of Duralumin and all holds of another metal (at least 3).
+- **Effect**: The next action using the other metal has its effect magnified considerably, but all reserves of that metal are consumed. Roll+INT:
+    - On a 10+: Choose 2 of the following:
+    - The enhanced effect lasts for twice as long.
+    - The potency of the enhanced effect is increased by +1.
+    - You can also choose a secondary effect to accompany the enhanced effect (GM-approved).
+    - On a 7-9: Choose 1 of the above options.
+    - On a miss: The metal's power surges out of control, causing unintended side effects or damage (GM's discretion).
+
+### Metalborn Weaponry
+
+- **Description**: Infuse a weapon with Allomantic energy, enhancing its potency.
+- **Cost**: Burn 1 hold of any metal.
+- **Effect**: For a short duration, the weapon gains a +1 bonus to damage, making it more deadly. Additionally, the weapon gains an additional effect based on the burned metal. The specific effect should be agreed upon with the GM and can be tied to the properties of the metal burned (e.g., fire damage for burning Iron, piercing effect for burning Steel).
+
+### Pewterclad Armor
+
+- **Description**: Strengthen your armor using Pewter, making it near impervious.
+- **Cost**: Spend 1 hold of Pewter.
+- **Effect**: For a short duration, the armor gains a +2 bonus against damage, making it more resilient. This bonus reduces the damage suffered from physical attacks while the Pewterclad Armor is active.
+
+### Brass Calm
+
+- **Description**: Use Brass to calm emotions, even inducing sleep in those affected.
+- **Cost**: Spend 1 hold of Brass.
+- **Effect**: Those affected feel a sudden wave of tranquility. They might also fall asleep if they fail a resistance check. Roll+WIS:
+    - On a 10+: They fall into a peaceful sleep, completely unresponsive for a short period.
+    - On a 7-9: They feel calmer and more relaxed, but they are still somewhat aware and may be easily roused.
+    - On a miss: The attempt to induce sleep backfires, causing the target to become agitated or even hostile.
+
+### Enhanced Zinc Rage
+
+- **Description**: Ignite intense emotions in a targeted individual, causing them to act impulsively.
+- **Cost**: Spend 2 holds of Zinc.
+- **Effect**: The targeted individual becomes extremely emotional and might act without thinking, which could lead to mistakes or rash decisions. Roll+CHA:
+    - On a 10+: The emotional surge overwhelms the target, and they act irrationally, making them more susceptible to making mistakes or being easily manipulated.
+    - On a 7-9: The target's emotions intensify but still retain some control, leading to impulsive actions that may or may not be beneficial to you.
+    - On a miss: The emotions spiral out of control, causing the target to become hostile or act in a self-destructive manner.
+
+### Luminal Radiance
+
+- **Description**: Burn Silver and amplify your magical energy, creating a blinding burst of light.
+- **Cost**: Burn 1 hold of Silver.
+- **Effect**: Emit a brilliant flash of light, temporarily blinding all opponents within a short radius. They are forced to shield their eyes, making it difficult for them to accurately target or react to your actions.
+
+### Eternal Vitality
+
+- **Description**: Consume Gold to tap into your inner resilience, granting temporary invigoration and resistance to harm.
+- **Cost**: Burn 1 hold of Gold.
+- **Effect**: Gain +2 ongoing to defy danger rolls related to physical endurance, mental fortitude, and resisting harmful effects for a short period of time.
+
+### Tempest's Embrace
+
+- **Description**: By burning Electrum and Bronze in harmony, you tap into the interplay of fate and magic, allowing you to manipulate the flow of time.
+- **Cost**: Burn 1 hold of Electrum and 1 hold of Bronze simultaneously.
+- **Effect**: Slow down or speed up the passage of time within a small area, affecting the movement and actions of creatures and objects within. This allows you to either create advantageous positioning or hinder opponents' reactions.
+
+### Nullpulse Field
+
+- **Description**: Harness the unique properties of Aluminum to create a field that temporarily neutralizes or blocks magical abilities.
+- **Cost**: Burn 1 hold of Aluminum.
+- **Effect**: Create an aura around yourself that dampens or suppresses magical powers within a short radius. This makes it difficult for opponents to use magic or other supernatural abilities while within the field.
+
+### Harmonic Fusion
+
+- **Description**: Burn Duralumin and Aluminum simultaneously, merging your Allomantic abilities with the raw power of Preservation and Ruin.
+- **Cost**: Burn 1 hold of Duralumin and 1 hold of Aluminum simultaneously.
+- **Effect**: Channel the combined power of Preservation and Ruin for a short duration, greatly enhancing your Allomantic abilities. You gain a +1 bonus to all rolls involving Allomantic powers and abilities, and the duration of your burns is extended.
