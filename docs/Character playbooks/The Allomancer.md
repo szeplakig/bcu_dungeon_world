@@ -275,11 +275,6 @@ Tapping into the raw form of Allomancy, you engage with its unpredictable, wild,
 - **On a miss**: The metal reacts violently within you. Suffer harm from metal poisoning, lose access to your Allomantic powers temporarily, or face other severe consequences.
 
 _Note: Using unprocessed metals can be a game-changing decision. Collaborate with your GM to ensure the effects and narrative implications are fitting for the situation._
-### Feathered Step
-
-- **Description**: By delicately pushing against the floor or ground, you can lighten your steps to the point they're almost silent, making you move like a whisper.
-- **Cost**: Burn 1 hold of Steel.
-- **Effect**: For a short duration, your steps are near-silent, allowing you to move with exceptional stealth. You gain a +1 forward to any DEX-based rolls related to sneaking or remaining undetected.
 
 ## Common Metals
 
@@ -559,3 +554,9 @@ Rare Metals cost 4 coins each.
 - **Description**: Burn Duralumin and Aluminum simultaneously, merging your Allomantic abilities with the raw power of Preservation and Ruin.
 - **Cost**: Burn 1 hold of Duralumin and 1 hold of Aluminum simultaneously.
 - **Effect**: Channel the combined power of Preservation and Ruin for a short duration, greatly enhancing your Allomantic abilities. You gain a +1 bonus to all rolls involving Allomantic powers and abilities, and the duration of your burns is extended.
+
+### Feathered Step
+
+- **Description**: By delicately pushing against the floor or ground, you can lighten your steps to the point they're almost silent, making you move like a whisper.
+- **Cost**: Burn 1 hold of Steel.
+- **Effect**: For a short duration, your steps are near-silent, allowing you to move with exceptional stealth. You gain a +1 forward to any DEX-based rolls related to sneaking or remaining undetected.
