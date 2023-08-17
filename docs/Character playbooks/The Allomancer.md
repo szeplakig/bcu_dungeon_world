@@ -419,7 +419,7 @@ _Note: Using unprocessed metals can be a game-changing decision. Collaborate wit
 
 ## Common Metals
 
-Common Metals cost 2 coin each.
+Common Metals cost 1 coin each.
 
 ### Iron
 
@@ -487,7 +487,7 @@ Common Metals cost 2 coin each.
 
 ## Rare Metals
 
-Common Metals cost 8 coins each.
+Rare Metals cost 4 coins each.
 
 ### Silver
 
@@ -521,7 +521,7 @@ Common Metals cost 8 coins each.
 - **Example uses**:
     - A last-ditch effort to avoid detection or negate a harmful Allomantic effect.
 
-### Duralumin
+### Titanium
 
 - **Use**: Enhances the burn of another metal, giving a powerful but brief surge of that power.
 - **Negative effect**: Drains the metal reserve completely, leaving you without that metal's powers.
@@ -529,7 +529,7 @@ Common Metals cost 8 coins each.
     - A powerful, unexpected push or pull using Iron or Steel.
     - A heightened emotional influence using Zinc or Brass.
 
-### Graphite
+### Osmium
 
 - **Use**: Disrupt magical connections, severing ongoing spells or bindings.
 - **Negative effect**: Misuse can disrupt beneficial magic or create feedback.
@@ -545,14 +545,10 @@ Common Metals cost 8 coins each.
     - Walking through a hail of arrows unharmed.
     - Surviving falls from great heights.
 
-### Onyx
+### Cobalt
 
 - **Use**: Create a temporary shield around oneself, deflecting physical attacks.
 - **Negative effect**: Overuse may cause disorientation or temporary blindness.
 - **Example uses**:
     - Protecting oneself from projectiles or melee attacks.
     - Blocking an unexpected assault.
- 
-
-## Credits:
-Allomancy/Allemoncers are the 
