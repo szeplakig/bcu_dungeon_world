@@ -167,6 +167,8 @@ _Replaces: Harmonic Initiate_
 
 ### Refined Ingestion
 
+_Replaces: Ingest Metal_
+
 Through practice and mastery of your Allomantic abilities, you have learned to rapidly ingest and utilize metals with finesse. When you consume a specific Allomantic metal or alloy, you may choose to make it a "bonus action", allowing you to burn the metal immediately. When you ingest a metal this way, **Roll+CON**:
 
 - **On a 10+**: You gain 3 holds. You can choose to immediately burn one use and you do not suffer the negative effects.
@@ -550,3 +552,7 @@ Common Metals cost 8 coins each.
 - **Example uses**:
     - Protecting oneself from projectiles or melee attacks.
     - Blocking an unexpected assault.
+ 
+
+## Credits:
+Allomancy/Allemoncers are the 
