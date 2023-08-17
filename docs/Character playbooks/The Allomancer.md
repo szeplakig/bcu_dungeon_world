@@ -65,7 +65,7 @@ When you actively "burn" (akin to burning calories) an ingested metal to utilize
 
 You can always feel the reserve of ingested metal in your system. You are aware of how much you can use before running out.
 
-#### Cleansing
+### Cleansing
 
 Over more extended periods of time, all ingested metals will leave your body by themselves. When you rest for at least 4 hours, remove all holds for all ingested metals.
 
