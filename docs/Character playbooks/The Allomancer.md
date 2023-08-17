@@ -21,23 +21,23 @@ Your base damage is d6.
 
 ### Prepare Metal
 
-Before using your Allomantic abilities, you must prepare a specific metal or alloy Allomentically for Ingestion.
+Before using your Allomantic abilities, you must prepare a specific metal or alloy Allomantically for ingestion.
 
 This process is delicate and can cause harm or provide a weaker effect.
 
-Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create INT+1 uses of Allomantic metal.
+Use up 1 time the metal cost of coins + 4 coins worth of chemicals to create INT+1 uses of Allomantic metal.
 
 **Roll+INT** to determine the outcome.
 
 - **On a 10+**: The metal is perfectly prepared.
 - **On a 7-9**: You prepare the metal but something happens. Choose from the following:
-    - **Weak draft**: You create a Weak Allomatic Metal batch. This means these powers are weaker.
+    - **Weak draft**: You create a Weak Allomantic Metal batch. This means these powers are weaker.
     - **Accident**: You mess up during the process and hurt yourself but still manage to complete the batch. Take 1 small harm.
     - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal uses.
 - **On a miss**: You've made a grave mistake in preparation. You lose the batch. The GM will decide the consequences. Choose from the following:
     - **Nothing**: You have managed to leave the room before it filled up with toxic fumes.
     - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins equal to the initial cost.
-    - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
+    - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer time or get healed.
     - **Explosion**: Your preparation goes horribly wrong, resulting in a small explosion. Take 1 harm (burn) and you are thrown into a chaotic situation.
     - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You are unable to use your Allomantic powers until you spend a full day recovering.
 
@@ -45,12 +45,12 @@ Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create IN
 
 You consume 1 use of a specific Allomantic metal or alloy and absorb it into your system/body, **Roll+CON**:
 
-- **On a 10+**: You gain 2 holds. Suffer the negative effects of the metal. Choose one of the following:
+- **On a 10+**: You gain 2 holds and suffer the metal's negative effect. Choose one of the following:
     - **Ready action**: You can burn one use immediately.
-    - **Effective absorbtion**: Extend the duration of the ingested metal by 2 holds.
+    - **Effective absorption**: Extend the duration of the ingested metal by 2 holds.
     - **Contained use**: Prevent negative effects from the metal.
 - **On a 7-9**: You gain 2 holds and suffer the metal's negative effect.
-- **On a miss**: You suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
+- **On a miss**: You suffer the adverse reactions of consuming the metal. You suffer the negative effect of the metal and choose one from the following:
     - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover or suffer -1 ongoing until you do.
     - **Metal Burn**: The metal burns "hotter" than expected, causing discomfort or minor burns. Take 1 small harm.
     - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
