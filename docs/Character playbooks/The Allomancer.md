@@ -1,8 +1,8 @@
 ## Short Description
 
-An **Allomancer** is a unique being able to harness the power of _specific_ metals or alloys, drawing upon their inherent properties to achieve feats that defy natural law. Through ingesting and "burning" these metals, they unlock latent abilities ranging from enhanced senses to manipulating objects or emotions.
+An **Allomancer** is a being able to harness the power of _specific_ Allomentic metals or alloys, drawing upon their inherent properties to achieve feats that defy natural law. Through ingesting and "burning" these metals, they unlock latent abilities ranging from enhanced senses to manipulating objects or emotions.
 
-Depending on their mastery and the quality of metal ingested, the strength of these effects can vary. Treading the line between science and magic, an Allomancer must be strategic in their metal use, balancing power with the potential for adverse effects.
+Depending on their mastery and the quality and preparation of the Allomentic metal ingested, the strength of these effects can vary. Treading the line between science and magic, an Allomancer must be strategic in their metal use, balancing power with the potential for adverse effects.
 
 Whether they're soaring through the skies with Steel pushes or sensing dangers before they arise with Tin, Allomancers are a force to be reckoned with in any scenario.
 
@@ -17,27 +17,7 @@ Your base damage is d6.
 ### Novice Allomancer
 
 - **Description**: Your journey into the realm of Allomancy has just begun, and you've familiarized yourself with a few metals.
-- **Effect**: You can recognize, prepare, ingest, and burn up to 2 different Allomantic metals. These are locked in forever.
-
-### Burn Metal
-
-When you actively "burn" (akin to burning calories) an ingested metal to utilize its powers, using up 1 (or more/less) hold(s) of the holds gained from "Ingest Metal":
-
-### Ingest Metal
-
-You consume 1 use of a specific Allomantic metal or alloy and store it in your system, **Roll+CON**:
-
-- **On a 10+**: You gain 2 holds. Choose one of the following:
-    - **Ready action**: You can burn one use immediately.
-    - **Extension**: Extend the duration of a previously accessed metal by 2 holds.
-    - **Safety first**: Prevent adverse effects from the metal. (you suffer the negative effect of the metal otherwise)
-- **On a 7-9**: You gain 2 holds and suffer the metal's negative effect.
-- **On a miss**: You suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
-    - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover or suffer -1 ongoing until you do.
-    - **Metal Burn**: The metal burns hotter than expected, causing discomfort or minor burns. Take 1 harm.
-    - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
-
-_**Note**: Ingest can be swallowed as a solution, absorbed through the skin of your hands, or other methods you can think of._
+- **Effect**: You can recognize, prepare, ingest, and burn up to 2 different Allomantic metals. (These are locked in forever.)
 
 ### Prepare Metal
 
@@ -45,23 +25,41 @@ Before using your Allomantic abilities, you must prepare a specific metal or all
 
 This process is delicate and can cause harm or provide a weaker effect.
 
-Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create INT uses of Allomantic metal.
+Use up 1 times the metal cost of coins + 4 coins worth of chemicals to create INT+1 uses of Allomantic metal.
 
 **Roll+INT** to determine the outcome.
 
-- **On a 10+**: Yhe metal is perfectly prepared.
+- **On a 10+**: The metal is perfectly prepared.
 - **On a 7-9**: You prepare the metal but something happens. Choose from the following:
     - **Weak draft**: You create a Weak Allomatic Metal batch. This means these powers are weaker.
-    - **Accident**: You mess up during the process and hurt yourself but still manage to complete the batch. Take 1 harm.
-    - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal.
-- **On a miss**: You've made a grave mistake in preparation. The GM will decide the consequences. Choose from the following:
+    - **Accident**: You mess up during the process and hurt yourself but still manage to complete the batch. Take 1 small harm.
+    - **Wastage**: You waste a lot of materials. You only get half (rounded up) the amount of Allomantic Metal uses.
+- **On a miss**: You've made a grave mistake in preparation. You lose the batch. The GM will decide the consequences. Choose from the following:
     - **Nothing**: You have managed to leave the room before it filled up with toxic fumes.
     - **Resource Drain**: Your preparation was so off that you’ve wasted not only the intended materials but also additional resources. Lose an amount of coins equal to the initial cost.
     - **Cuts**: You cut your hand with a sharp piece. *ouchie, ouchie* Suffer -1 ongoing until you rest for a longer or get healed.
     - **Explosion**: Your preparation goes horribly wrong, resulting in a small explosion. Take 1 harm (burn) and you are thrown into a chaotic situation.
     - **Allomantic Backlash**: The process went so wrong that it temporarily disrupts your Allomantic abilities. You are unable to use your Allomantic powers until you spend a full day recovering.
 
+### Ingest Metal
 
+You consume 1 use of a specific Allomantic metal or alloy and absorb it into your system/body, **Roll+CON**:
+
+- **On a 10+**: You gain 2 holds. Suffer the negative effects of the metal. Choose one of the following:
+    - **Ready action**: You can burn one use immediately.
+    - **Effective absorbtion**: Extend the duration of the ingested metal by 2 holds.
+    - **Contained use**: Prevent negative effects from the metal.
+- **On a 7-9**: You gain 2 holds and suffer the metal's negative effect.
+- **On a miss**: You suffer the adverse reactions of consuming the metal, you suffer the negative effect of the metal and choose one from the following:
+    - **Nausea**: The metal reacts badly in your body, making you feel nauseous. You must spend an action to recover or suffer -1 ongoing until you do.
+    - **Metal Burn**: The metal burns "hotter" than expected, causing discomfort or minor burns. Take 1 small harm.
+    - **Extrication**: Your body forcefully expels the metal in a violent moment. You gain no holds and suffer the negative consequences.
+
+_**Note**: Ingest can be swallowed as a solution, absorbed through the skin of your hands, or other methods you can think of._
+
+### Burn Metal
+
+When you actively "burn" (akin to burning calories) an ingested metal to utilize its powers, using up 1 (or more/less) hold(s) of the holds gained from "Ingest Metal". Activate the power of a known Allomentic metal for a short period of time. (seconds to minutes, depending on the metal)
 
 ### Sense Metal Reserves
 
