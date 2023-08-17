@@ -1,0 +1,1515 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://szeplakig.github.io/bcu_dungeon_world/GM%20Tools/Locations/Location%20Builder/">
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.1.21">
+    
+    
+      
+        <title>Location Builder - BCU Dungeon World</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.eebd395e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#adjective-dice-location-builderadjective" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="BCU Dungeon World" class="md-header__button md-logo" aria-label="BCU Dungeon World" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            BCU Dungeon World
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Location Builder
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="BCU Dungeon World" class="md-nav__button md-logo" aria-label="BCU Dungeon World" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    BCU Dungeon World
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Moves
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Moves
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Moves/" class="md-nav__link">
+        General
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Moves/Basic%20moves/" class="md-nav__link">
+        Basic moves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Moves/Journey%20moves/" class="md-nav__link">
+        Journey moves
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Moves/Special%20moves/" class="md-nav__link">
+        Special moves
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20creation/" class="md-nav__link">
+        Character creation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20species/" class="md-nav__link">
+        Character species
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Bonds%20and%20Alignment/" class="md-nav__link">
+        Bonds and Alignment
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../HP%20and%20Damage/" class="md-nav__link">
+        HP and Damage
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+          Character playbooks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Character playbooks
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/General/" class="md-nav__link">
+        General
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Allomancer/" class="md-nav__link">
+        The Allomancer
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Barbarian/" class="md-nav__link">
+        The Barbarian
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Bard/" class="md-nav__link">
+        The Bard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Battlemaster/" class="md-nav__link">
+        The Battlemaster
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Chaneller/" class="md-nav__link">
+        The Chaneller
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Cleric/" class="md-nav__link">
+        The Cleric
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Druid/" class="md-nav__link">
+        The Druid
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Fighter/" class="md-nav__link">
+        The Fighter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Necromancer/" class="md-nav__link">
+        The Necromancer
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Paladin/" class="md-nav__link">
+        The Paladin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Ranger/" class="md-nav__link">
+        The Ranger
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Shaman/" class="md-nav__link">
+        The Shaman
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Skirmisher/" class="md-nav__link">
+        The Skirmisher
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Templar/" class="md-nav__link">
+        The Templar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Thief/" class="md-nav__link">
+        The Thief
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/The%20Wizard/" class="md-nav__link">
+        The Wizard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_18" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7_18" id="__nav_7_18_label" tabindex="0">
+          Compendium Playbooks
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_18_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_7_18">
+          <span class="md-nav__icon md-icon"></span>
+          Compendium Playbooks
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Delver/" class="md-nav__link">
+        The Delver
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Drunken%20Master/" class="md-nav__link">
+        The Drunken Master
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Explorer/" class="md-nav__link">
+        The Explorer
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Hunter/" class="md-nav__link">
+        The Hunter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Knight%20of%20the%20Forever%20Flame/" class="md-nav__link">
+        The Knight of the Forever Flame
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Walker%20in%20the%20Waste/" class="md-nav__link">
+        The Walker in the Waste
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Character%20playbooks/Compendium%20playbooks/The%20Wendigo/" class="md-nav__link">
+        The Wendigo
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Equipment/" class="md-nav__link">
+        Equipment
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+          Followers
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Followers
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Followers/General/" class="md-nav__link">
+        General
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Followers/Follower%20moves/" class="md-nav__link">
+        Follower moves
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../FAQ/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adjective-dice-location-builderadjective" class="md-nav__link">
+    Adjective: dice: [[Location Builder^adjective]]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#place-dice-location-builderplace" class="md-nav__link">
+    Place: dice: [[Location Builder^place]]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#traits-dice-location-buildertraits-and-also-dice-location-buildertraits" class="md-nav__link">
+    Traits: dice: [[Location Builder^traits]] and also dice: [[Location Builder^traits]]
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Location Builder</h1>
+
+<p><code>dice: [[Location Builder^adjective]]</code> <code>dice: [[Location Builder^place]]</code> that <code>dice: [[Location Builder^traits]]</code> and also <code>dice: [[Location Builder^traits]]</code>.</p>
+<h2 id="adjective-dice-location-builderadjective">Adjective: <code>dice: [[Location Builder^adjective]]</code></h2>
+<table>
+<thead>
+<tr>
+<th>Adjective</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wealthy</td>
+</tr>
+<tr>
+<td>Touristy</td>
+</tr>
+<tr>
+<td>Boring</td>
+</tr>
+<tr>
+<td>Charming</td>
+</tr>
+<tr>
+<td>Bustling</td>
+</tr>
+<tr>
+<td>Beautiful</td>
+</tr>
+<tr>
+<td>Expansive</td>
+</tr>
+<tr>
+<td>Compact</td>
+</tr>
+<tr>
+<td>Gaudy</td>
+</tr>
+<tr>
+<td>Mystical</td>
+</tr>
+<tr>
+<td>Picturesque</td>
+</tr>
+<tr>
+<td>Polluted</td>
+</tr>
+<tr>
+<td>Ancient</td>
+</tr>
+<tr>
+<td>Young</td>
+</tr>
+<tr>
+<td>Hilly</td>
+</tr>
+<tr>
+<td>Mountainous</td>
+</tr>
+<tr>
+<td>Fertile</td>
+</tr>
+<tr>
+<td>Dry</td>
+</tr>
+<tr>
+<td>Overgrown</td>
+</tr>
+<tr>
+<td>Coastal</td>
+</tr>
+<tr>
+<td>Woodsy</td>
+</tr>
+<tr>
+<td>Creepy</td>
+</tr>
+<tr>
+<td>Ugly</td>
+</tr>
+<tr>
+<td>Mysterious</td>
+</tr>
+<tr>
+<td>Silent</td>
+</tr>
+<tr>
+<td>Cosmopolitan</td>
+</tr>
+<tr>
+<td>Dirty</td>
+</tr>
+<tr>
+<td>Tranquil</td>
+</tr>
+<tr>
+<td>Unsettling</td>
+</tr>
+<tr>
+<td>Smelly</td>
+</tr>
+<tr>
+<td>Half-Burned</td>
+</tr>
+<tr>
+<td>Dangerous</td>
+</tr>
+<tr>
+<td>Wild</td>
+</tr>
+<tr>
+<td>Spotless</td>
+</tr>
+<tr>
+<td>Dreary</td>
+</tr>
+<tr>
+<td>^adjective</td>
+</tr>
+</tbody>
+</table>
+<h2 id="place-dice-location-builderplace">Place: <code>dice: [[Location Builder^place]]</code></h2>
+<table>
+<thead>
+<tr>
+<th>Place</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hamlet</td>
+</tr>
+<tr>
+<td>Town</td>
+</tr>
+<tr>
+<td>Keep</td>
+</tr>
+<tr>
+<td>Village</td>
+</tr>
+<tr>
+<td>City</td>
+</tr>
+<tr>
+<td>Castle</td>
+</tr>
+<tr>
+<td>^place</td>
+</tr>
+</tbody>
+</table>
+<h2 id="traits-dice-location-buildertraits-and-also-dice-location-buildertraits">Traits: <code>dice: [[Location Builder^traits]]</code> and also <code>dice: [[Location Builder^traits]]</code></h2>
+<table>
+<thead>
+<tr>
+<th>Traits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>dice: [[Location Builder^traits-first-appears]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-specialises-in]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-a]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-bizarre]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-is-near]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-is-threatened-by]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-a-cult-that]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-a-hidden-monster-that]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-a-curse]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-made-a-faustian-bargain-for]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-strange-magic]]</code></td>
+</tr>
+<tr>
+<td><code>dice: [[Location Builder^traits-has-a-special-person]]</code></td>
+</tr>
+<tr>
+<td>^traits</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>First appears</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>first appears abandoned</td>
+</tr>
+<tr>
+<td>first appears peaceful</td>
+</tr>
+<tr>
+<td>first appears violent</td>
+</tr>
+<tr>
+<td>first appears prosperous</td>
+</tr>
+<tr>
+<td>first appears devout</td>
+</tr>
+<tr>
+<td>first appears hospitable</td>
+</tr>
+<tr>
+<td>^traits-first-appears</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Specialises in</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>specialises in industry</td>
+</tr>
+<tr>
+<td>specialises in mining</td>
+</tr>
+<tr>
+<td>specialises in fishing</td>
+</tr>
+<tr>
+<td>specialises in forging</td>
+</tr>
+<tr>
+<td>specialises in farming</td>
+</tr>
+<tr>
+<td>specialises in weaving</td>
+</tr>
+<tr>
+<td>^traits-specialises-in</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has a</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has a marketplace</td>
+</tr>
+<tr>
+<td>has a cathedral</td>
+</tr>
+<tr>
+<td>has a theatre</td>
+</tr>
+<tr>
+<td>has a college</td>
+</tr>
+<tr>
+<td>has a port</td>
+</tr>
+<tr>
+<td>has a tower</td>
+</tr>
+<tr>
+<td>^traits-has-a</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has bizarre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has bizarre architecture</td>
+</tr>
+<tr>
+<td>has bizarre inhabitants</td>
+</tr>
+<tr>
+<td>has bizarre customs</td>
+</tr>
+<tr>
+<td>has bizarre wares</td>
+</tr>
+<tr>
+<td>has bizarre history</td>
+</tr>
+<tr>
+<td>has bizarre religious beliefs</td>
+</tr>
+<tr>
+<td>^traits-has-bizarre</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Is near</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>is near a river</td>
+</tr>
+<tr>
+<td>is near the sea</td>
+</tr>
+<tr>
+<td>is near a volcano</td>
+</tr>
+<tr>
+<td>is near the borderlands</td>
+</tr>
+<tr>
+<td>is near a massive cave</td>
+</tr>
+<tr>
+<td>is near an ancient tree</td>
+</tr>
+<tr>
+<td>^traits-is-near</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Is threatened by</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>is threatened by ravenous beasts</td>
+</tr>
+<tr>
+<td>is threatened by a plague</td>
+</tr>
+<tr>
+<td>is threatened by earthquakes</td>
+</tr>
+<tr>
+<td>is threatened by pests</td>
+</tr>
+<tr>
+<td>is threatened by bandits</td>
+</tr>
+<tr>
+<td>is threatened by drought</td>
+</tr>
+<tr>
+<td>is threatened by flooding</td>
+</tr>
+<tr>
+<td>^traits-is-threatened-by</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has a cult that</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has a cult that promises eternal life</td>
+</tr>
+<tr>
+<td>has a cult that kidnaps travellers</td>
+</tr>
+<tr>
+<td>has a cult that sacrifices virgins</td>
+</tr>
+<tr>
+<td>has a cult that summons its dark lord</td>
+</tr>
+<tr>
+<td>has a cult that practices witchcraft</td>
+</tr>
+<tr>
+<td>has a cult that worships nature</td>
+</tr>
+<tr>
+<td>^traits-has-a-cult-that</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has a hidden monster that</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has a hidden monster that everyone protects</td>
+</tr>
+<tr>
+<td>has a hidden monster that no one knows about</td>
+</tr>
+<tr>
+<td>has a hidden monster that is actually a person</td>
+</tr>
+<tr>
+<td>has a hidden monster that exacts vengeance</td>
+</tr>
+<tr>
+<td>has a hidden monster that wishes no harm</td>
+</tr>
+<tr>
+<td>has a hidden monster that only kills "bad" people</td>
+</tr>
+<tr>
+<td>^traits-has-a-hidden-monster-that</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has a curse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has a curse: the dead walk at night</td>
+</tr>
+<tr>
+<td>has a curse: no one can leave</td>
+</tr>
+<tr>
+<td>has a curse: vivid nightmares</td>
+</tr>
+<tr>
+<td>has a curse: dawn never comes</td>
+</tr>
+<tr>
+<td>has a curse: exceedingly bad luck</td>
+</tr>
+<tr>
+<td>has a curse: an eternal storm</td>
+</tr>
+<tr>
+<td>^traits-has-a-curse</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has made a Faustian bargain for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has made a Faustian bargain for bountiful harvest</td>
+</tr>
+<tr>
+<td>has made a Faustian bargain for good weather</td>
+</tr>
+<tr>
+<td>has made a Faustian bargain for protection</td>
+</tr>
+<tr>
+<td>has made a Faustian bargain for prosperity</td>
+</tr>
+<tr>
+<td>has made a Faustian bargain for health</td>
+</tr>
+<tr>
+<td>has made a Faustian bargain for fertility</td>
+</tr>
+<tr>
+<td>^traits-has-made-a-faustian-bargain-for</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has strange magic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has strange magic: no one ages</td>
+</tr>
+<tr>
+<td>has strange magic: no lies can be spoken here</td>
+</tr>
+<tr>
+<td>has strange magic: plants grow x10 times as fast</td>
+</tr>
+<tr>
+<td>has strange magic: it rains gold</td>
+</tr>
+<tr>
+<td>has strange magic: violence is impossible</td>
+</tr>
+<tr>
+<td>has strange magic: wounds heal overnight</td>
+</tr>
+<tr>
+<td>^traits-has-strange-magic</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Has a special person</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>has a special person: a prophet</td>
+</tr>
+<tr>
+<td>has a special person: a fallen angel</td>
+</tr>
+<tr>
+<td>has a special person: unable to die</td>
+</tr>
+<tr>
+<td>has a special person: an infamous warlord</td>
+</tr>
+<tr>
+<td>has a special person: a player's long lost relative</td>
+</tr>
+<tr>
+<td>has a special person: a player's sworn enemy</td>
+</tr>
+<tr>
+<td>^traits-has-a-special-person</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>
